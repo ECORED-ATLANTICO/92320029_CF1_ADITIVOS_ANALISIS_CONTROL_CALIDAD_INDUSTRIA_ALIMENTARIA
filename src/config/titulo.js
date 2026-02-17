@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Aditivos: usos y aplicaciones en la industria alimentaria'
