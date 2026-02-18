@@ -4,21 +4,21 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 5
-      h1 Relación entre aditivos y análisis fisicoquímico
+        span 6
+      h1 6.	Manejo y conversión de unidades de medida
 
     Separador
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12  
         #t_5_1.titulo-segundo.color-primario
-          .h2(data-aos="fade-right") 5.1 Pilares del análisis físicoquímico en aditivos
+          .h2(data-aos="fade-right") 6.1 Principales unidades de medida y sus equivalencias
         .mb-0
 
 </template>
 
 <script>
 export default {
-  name: 'Tema5',
+  name: 'Tema6',
   data: () => ({
     // variables de vue
   }),
