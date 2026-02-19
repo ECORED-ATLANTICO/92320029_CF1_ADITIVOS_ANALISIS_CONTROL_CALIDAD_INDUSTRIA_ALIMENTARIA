@@ -14,6 +14,13 @@
   &--blanca
     background-color: $white
 
+  &--blanca-2
+    background-color: $white
+    border-radius: 20px
+    padding: 1.5rem 1rem
+    margin: 0.5rem 1rem 3rem 1rem 
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2) 
+
   &--gris
     background-color: $color-sistema-h
 
@@ -54,6 +61,40 @@
         *
           color: textColor($color-acento-botones)
 
+  &--color-white
+    background-color: $white
+    border-radius: 20px
+    padding: 12rem 1rem 1rem 1rem 
+    position: relative
+    display: flex
+    flex-direction: column
+    overflow: hidden 
+    *
+      color: textColor($color-sistema-h)
+    &--borde
+      background-color: $white
+      color: textColor(lighten($color-sistema-h, 50%))
+      border: solid 4px $color-sistema-h
+
+  &--01::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_3/img_5.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--02::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_3/img_6.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--03::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_3/img_7.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+
   &--tabla
     background-color: $color-sistema-e
     &:nth-child(even)
@@ -67,6 +108,14 @@
       background-color: lighten($color-primario, 50%)
       color: textColor(lighten($color-primario, 50%))
       border: solid 4px $color-primario
+  &.color-primario-5
+    background-color: $color-primario-5
+    *
+      color: textColor($color-primario-5)
+    &--borde
+      background-color: lighten($color-primario-5, 50%)
+      color: textColor(lighten($color-primario-5, 50%))
+      border: solid 4px $color-primario-5
   &.color-secundario
     background-color: $color-secundario
     *
@@ -75,6 +124,14 @@
       background-color: lighten($color-secundario, 50%)
       color: textColor(lighten($color-secundario, 50%))
       border: solid 4px $color-secundario
+  &.color-secundario-5
+    background-color: $color-secundario-5
+    *
+      color: textColor($color-secundario-5)
+    &--borde
+      background-color: lighten($color-secundario-5, 50%)
+      color: textColor(lighten($color-secundario-5, 50%))
+      border: solid 4px $color-secundario-5
   &.color-acento-contenido
     background-color: $color-acento-contenido
     *
@@ -84,6 +141,77 @@
       color: textColor(lighten($color-acento-contenido, 50%))
       border: solid 4px $color-acento-contenido
   &.color-acento-botones
+    background-color: $color-acento-botones
+    *
+      color: textColor($color-acento-botones)
+    &--borde
+      background-color: lighten($color-acento-botones, 50%)
+      color: textColor(lighten($color-acento-botones, 50%))
+      border: solid 4px $color-acento-botones
+
+  &--bg-img
+    overflow: hidden
+    figure
+      margin: 0
+      height: 100%
+      img
+        width: 100%
+        height: 100%
+        object-fit: cover
+        object-position: center
+        display: block
+
+    &.color-primario
+      background-color: $color-primario
+      *
+        color: textColor($color-primario)
+      &--borde
+        background-color: lighten($color-primario, 50%)
+        color: textColor(lighten($color-primario, 50%))
+        border: solid 4px $color-primario
+    &.color-primario-5
+      background-color: $color-primario-5
+      *
+        color: textColor($color-primario-5)
+      &--borde
+        background-color: lighten($color-primario-5, 50%)
+        color: textColor(lighten($color-primario-5, 50%))
+        border: solid 4px $color-primario-5
+    &.color-primario-20
+      background-color: $color-primario-20
+      *
+        color: textColor($color-primario-20)
+      &--borde
+        background-color: lighten($color-primario-20, 50%)
+        color: textColor(lighten($color-primario-20, 50%))
+        border: solid 4px $color-primario-20
+    &.color-secundario
+      background-color: $color-secundario
+      *
+        color: textColor($color-secundario)
+      &--borde
+        background-color: lighten($color-secundario, 50%)
+        color: textColor(lighten($color-secundario, 50%))
+        border: solid 4px $color-secundario
+    &.color-acento-contenido
+      background-color: $color-acento-contenido
+      *
+        color: textColor($color-acento-contenido)
+      &--borde
+        background-color: lighten($color-acento-contenido, 50%)
+        color: textColor(lighten($color-acento-contenido, 50%))
+        border: solid 4px $color-acento-contenido
+    &.color-acento-botones
+      background-color: $color-acento-botones
+      *
+        color: textColor($color-acento-botones)
+      &--borde
+        background-color: lighten($color-acento-botones, 50%)
+        color: textColor(lighten($color-acento-botones, 50%))
+        border: solid 4px $color-acento-botones
+  
+  .img-bagraun-1
+    .color-acento-botones
     background-color: $color-acento-botones
     *
       color: textColor($color-acento-botones)
