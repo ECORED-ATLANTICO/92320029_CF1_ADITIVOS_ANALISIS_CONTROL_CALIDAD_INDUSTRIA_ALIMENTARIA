@@ -8,17 +8,17 @@
       h1 Origen, tipos y clasificación de los aditivos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-5.mb-lg-0.mb-3
+      .col-10.col-lg-5.mb-lg-0.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_2/img_1.png', class="img-fluid")
       .col-12.col-lg-7
-        p.mb-3 Los aditivos se clasifican en naturales y sintéticos, y ambos presentan diversos niveles de toxicidad. Su función es impedir cambios químicos, estabilizar características físicas y modificar propiedades organolépticas. 
-        .tarjeta.color-secundario-5.p-3.rounded-0.mb-0
+        p.mb-3(data-aos="zoom-in-right") Los aditivos se clasifican en naturales y sintéticos, y ambos presentan diversos niveles de toxicidad. Su función es impedir cambios químicos, estabilizar características físicas y modificar propiedades organolépticas. 
+        .tarjeta.color-secundario-5.p-3.rounded-0.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
+            .col-lg-1.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/temas/tema_2/img_2.png', class="img-fluid")
-            .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
+            .col-12.col-lg-11.mb-0
               p.mb-0 Para la conservación, se mantienen métodos tradicionales como el ahumado y el salado, junto con procesos modernos como la pasteurización. Actualmente, la industria emplea más de 4.000 aditivos para satisfacer la demanda de alimentos sanos, destacando los de origen natural por su mayor nivel de inocuidad.
 
     Separador
@@ -27,7 +27,7 @@
       .h2(data-aos="fade-right") 2.1 Origen y tipos
     .mb-0
     
-    p.mb-3 Según su procedencia, los aditivos pueden ser de origen natural o artificial. Los aditivos naturales son extraídos directamente de plantas, semillas, frutas o algas, o provienen de modificaciones controladas de compuestos naturales; mientras que los artificiales son producidos por síntesis química y requieren evaluaciones más rigurosas de inocuidad. 
+    p.mb-3(data-aos="zoom-in-right") Según su procedencia, los aditivos pueden ser de origen natural o artificial. Los aditivos naturales son extraídos directamente de plantas, semillas, frutas o algas, o provienen de modificaciones controladas de compuestos naturales; mientras que los artificiales son producidos por síntesis química y requieren evaluaciones más rigurosas de inocuidad. 
     
     .bg_img_4.mb-3
       .row.d-flex.align-items-stretch.justify-content-center.mb-0 
@@ -68,7 +68,7 @@
           figure
             img(src="@/assets/curso/temas/tema_2/img_7.png", class="img-fluid")
 
-      .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden
+      .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0.h-100
           .col-12.col-lg-9.p-4
             p.mb-0 Los aditivos provienen de tres fuentes principales que determinan factores como su toxicidad, valor comercial y disponibilidad.
@@ -86,21 +86,21 @@
       .mb-0
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-3.mb-lg-0.mb-3
+        .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
-        .col-12.col-lg-8
+        .col-12.col-lg-8(data-aos="zoom-in-right")
           p.mb-3 El Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025) clasifica los aditivos de acuerdo con su función tecnológica en categorías como colorantes, conservantes, antioxidantes, estabilizantes, acidulantes, edulcorantes y potenciadores del sabor, lo que facilita su correcta selección y aplicación. 
           p.mb-0 Cada grupo cumple una función específica que impacta la estabilidad, apariencia, sabor o vida útil del alimento.
-        .col-10.col-lg-1.mb-lg-0.mb-3
+        .col-10.col-lg-1.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
      
-      .titulo-sexto.color-primario
+      .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
         h5 Tabla 1.
         |  Clasificación funcional de los aditivos alimentarios
-      .tabla-a.mb-5
-        table(data-aos="zoom-in-right")
+      .tabla-a.mb-5(data-aos="flip-left")
+        table
           caption 
             p <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
           thead
@@ -138,8 +138,8 @@
               td.text-start Incrementan la percepción del sabor de los alimentos sin que tengan uno propio. 
               td.text-start Glutamato de sodio.
     
-    .row.justify-content-center.align-items-center
-      .col-12.col-lg-8.mb-5
+    .row.justify-content-center.align-items-center(data-aos="zoom-in-right")
+      .col-12.col-lg-10.mb-5
         .div.tarjeta--bg-img.color-primario-20.rounded-3.p-0.mb-5.overflow-hidden
           .row.justify-content-around.align-items-center.mb-0.h-100
             .col-12.col-lg-2.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
