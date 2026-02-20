@@ -227,7 +227,7 @@
     
     .tarjeta.color-secundario-5.p-3.rounded-0.mb-0(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
-        .col-lg-1.d-lg-block.d-none
+        .col-lg-1.d-lg-block.d-none.p-4
           figure
             img(src='@/assets/curso/temas/tema_3/img_12.png', class="img-fluid")
         .col-12.col-lg-11.mb-0
@@ -570,7 +570,7 @@
         .col-12.col-lg-9.order-2.order-lg-1(data-aos='zoom-in-right')
           .tarjeta.color-secundario-5.p-3.rounded-0.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
-              .col-lg-2.d-lg-block.d-none
+              .col-lg-2.d-lg-block.d-none.p-4
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_31.png', class="img-fluid")
               .col-12.col-lg-10.mb-0

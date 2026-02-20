@@ -347,7 +347,7 @@ figcaption
       content: ''
       position: absolute
       margin: 0
-      top: 100px
+      top: -100px
       left: -48px
       width: calc(100% + 96px)
       height: 100%
@@ -461,3 +461,42 @@ figcaption
   color: $color-sistema-texto
 .b 
   font-weight: bold
+
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important 
+  &:hover    
+    .crd_hover_txt--body   
+      background-color: $color-primario-20
+      color: $white
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+    h4
+      color: $white
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1rem 1.2rem 1.2rem 1.2rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.85rem ))
+    background-color: $color-primario-20
+    color: $white
+    h4
+      color: $white
+    p
+      color: $white
+
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+// acordion
+.acordion__activo
+  background-color: $color-secundario-5
+.acordion__accion__btn--a
+  background-color: $color-secundario-5
