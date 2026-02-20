@@ -25,11 +25,12 @@
               .col-2.col-lg-1.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/introduccion/img_3.svg', class="cita-decorada__imagen-flotante-1")
-
-    figure.mb-5
+    
+    //figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Aditivos: usos y aplicaciones en la industria alimentaria
+    //
 
 </template>
 

@@ -53,7 +53,7 @@
           figure(data-aos="zoom-in-right").mb-3
             img(src='@/assets/curso/temas/tema_5/img_7.svg', class="img-fluid d-none d-lg-block mb-0").mb-5
             img(src='@/assets/curso/temas/tema_5/img_8.svg', class="img-fluid d-block d-lg-none mb-0").mb-5
-          figcaption(data-aos="zoom-in-right") <b>Fuente:</b> Adaptado de INVIMA (2025).
+          figcaption(data-aos="zoom-in-right") Nota. Adaptado de INVIMA (2025).
     
     p.mb-3 A continuación se detalla una tabla que incluye las diferentes técnicas analíticos por grupos de aditivos: 
 
@@ -63,7 +63,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado de INVIMA (2025).
+          p Nota. Adaptado de INVIMA (2025).
         thead
           tr
             th.col-auto.col-lg-2 Grupo de Aditivo

@@ -102,7 +102,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
+            p Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
           thead
             tr
               th Tipo de aditivo

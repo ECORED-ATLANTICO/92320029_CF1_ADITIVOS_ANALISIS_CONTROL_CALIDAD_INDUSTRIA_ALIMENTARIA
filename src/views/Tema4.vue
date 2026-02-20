@@ -47,7 +47,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/temas/tema_4/img_5.svg', class="img-fluid d-none d-lg-block mb-0").mb-5
           img(src='@/assets/curso/temas/tema_4/img_6.svg', class="img-fluid d-block d-lg-none mb-0").mb-5
-        figcaption(data-aos="zoom-in-right") <b>Fuente:</b>  Adaptado <em>Codex Alimentarius.</em> (2024).
+        figcaption(data-aos="zoom-in-right") Nota.  Adaptado <em>Codex Alimentarius.</em> (2024).
 
     .tarjeta--bg-img.color-secundario-5.rounded-3.p-0.mb-5.overflow-hidden(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0.h-100
@@ -218,7 +218,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> MINSALUD Colombia, (2025).
+          p Nota. MINSALUD Colombia, (2025).
         thead
           tr
             th.col-auto.col-lg-2 Elemento

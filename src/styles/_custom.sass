@@ -60,7 +60,7 @@
   background-image: url('../assets/curso/portada/banner_interno.png') !important
 
 .banner-principal__row .banner-principal__img
-  width: 550px !important
+  width: 500px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
@@ -296,19 +296,25 @@ figcaption
       background-repeat: no-repeat
   &_13
     position: relative
+    z-index: 1
+
     h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
       position: relative
+      z-index: 3
+
     &::before
       content: ''
       position: absolute
       margin: 0
-      top: -100px
+      top: -40px
       left: -48px
       width: calc(100% + 96px)
       height: 100%
       background-image: url('../assets/curso/temas/tema_4/img_9.png') !important
       background-repeat: no-repeat
+      z-index: -1
   &_14
+
     position: relative
     h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
       position: relative
@@ -485,6 +491,8 @@ figcaption
       color: $white
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
+      border-bottom-left-radius: 16px
+      border-bottom-right-radius: 16px
     h4
       color: $white
 
@@ -496,6 +504,8 @@ figcaption
     transform: translateY(calc( 100% - 4.85rem ))
     background-color: $color-primario-20
     color: $white
+    border-bottom-left-radius: 16px
+    border-bottom-right-radius: 16px
     h4
       color: $white
     p

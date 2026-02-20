@@ -38,11 +38,17 @@
             .col-8.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="flip-left")
               figure
                 img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid w-100")
+          
           .bloque-texto-b.color-secundario-5.p-4(data-aos='zoom-in-right')
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
+              p.mb-3 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
+              br
+              br
+              h4.mb-0.justify-content-end (Flessa & Huebner, 2021; Kimble & Massoud, 2017).
               i.fas.fa-quote-right
+          
+
       
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-12.col-lg-10.mb-5
@@ -96,7 +102,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none").mb-5
-            figcaption <b>Fuente:</b> Adaptado de Ibáñez et al, 2003.
+            figcaption Nota. Adaptado de Ibáñez et al, 2003.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
@@ -131,7 +137,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none").mb-5
-            figcaption <b>Fuente:</b> Adaptado de Ibáñez et al, 2003.
+            figcaption Nota. Adaptado de Ibáñez et al, 2003.
     
     .row.justify-content-center.align-items-center.mb-3
     .col-12.col-lg-12(data-aos="zoom-in-right")

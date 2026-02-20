@@ -52,7 +52,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado de los reglamentos de la Comisión Europea (UE) 2024 y actualizaciones de la FDA (2025).
+          p Nota. Adaptado de los reglamentos de la Comisión Europea (UE) 2024 y actualizaciones de la FDA (2025).
         thead
           tr
             th.col-auto.col-lg-2 Código
@@ -185,7 +185,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado de la actualización de regulaciones de la FDA (2025).
+          p Nota. Adaptado de la actualización de regulaciones de la FDA (2025).
         thead
           tr
             th.col-auto.col-lg-2 Código
@@ -277,7 +277,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado de Badui Dergal, S. (2025). Química de los Alimentos (7.ª ed.). Pearson Educación.
+          p Nota. Adaptado de Badui Dergal, S. (2025). Química de los Alimentos (7.ª ed.). Pearson Educación.
         thead
           tr
             th.col-auto.col-lg-3 Técnicas
@@ -336,7 +336,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_3/img_17.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_3/img_18.svg', class="img-fluid d-block d-lg-none").mb-5
-            figcaption <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
+            figcaption Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0.h-100
@@ -354,7 +354,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado Organización Mundial de la Salud (OMS, 2025).
+          p Nota. Adaptado Organización Mundial de la Salud (OMS, 2025).
         thead
           tr
             th.col-auto.col-lg-2 Código
@@ -427,7 +427,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_3/img_23.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_3/img_24.svg', class="img-fluid d-block d-lg-none").mb-5
-            figcaption <b>Fuente:</b> Adaptado Organización Mundial de la Salud (OMS, 2025).
+            figcaption Nota. Adaptado Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 Los estabilizantes más usados en la industria alimentaria, sus características y usos principales se pueden observar en la siguiente tabla:
 
@@ -437,7 +437,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado del Codex Alimentarius (2024).
+          p Nota. Adaptado del Codex Alimentarius (2024).
         thead
           tr
             th.col-auto.col-lg-2 Código
@@ -508,7 +508,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_3/img_28.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_3/img_29.svg', class="img-fluid d-block d-lg-none").mb-5
-            figcaption <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
+            figcaption Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 En la siguiente tabla se muestran algunos de los reguladores de pH más usados en la industria alimentaria, sus características y usos frecuentes:
     
@@ -518,7 +518,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Fuente:</b> Adaptado del Codex Alimentarius (2024).
+          p Nota. Adaptado del Codex Alimentarius (2024).
         thead
           tr
             th.col-auto.col-lg-2 Código
@@ -586,7 +586,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p <b>Fuente:</b> Adaptado Organización Mundial de la Salud (OMS, 2025).
+            p Nota. Adaptado Organización Mundial de la Salud (OMS, 2025).
           thead
             tr
               th.col-auto.col-lg-2 Código
