@@ -103,20 +103,20 @@
       .row.justify-content-center.mb-5
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
-            .crd_hover_txt--img
-              figure
-                img(src="@/assets/curso/temas/tema_4/img_14.png", alt="alt")
+            .crd_hover_txt--img.p-0
+              figure.p-0
+                img(src="@/assets/curso/temas/tema_4/img_14.png", class="img-fluid").p-0
             .crd_hover_txt--body
-              h4.mb-4 Garantía de inocuidad y salud pública.
+              h4.mb-3 Garantía de inocuidad y salud pública.
               p.mb-3.text-small El etiquetado permite identificar la presencia de alérgenos (como sulfitos, gluten, lácteos o frutos secos) que pueden causar reacciones adversas graves en poblaciones sensibles. Asimismo, proporciona instrucciones críticas sobre el modo de empleo y conservación, asegurando que el alimento se mantenga estable y seguro hasta su consumo.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema_4/img_15.png", alt="alt")
+                img(src="@/assets/curso/temas/tema_4/img_15.png", class="img-fluid")
             .crd_hover_txt--body
-              h4.mb-4 Transparencia y rastreabilidad.
+              h4.mb-3 Transparencia y rastreabilidad.
               p.mb-0.text-small A través del Sistema Internacional de Numeración (SIN) y la nomenclatura europea (códigos E), el etiquetado informa con precisión qué aditivos se han utilizado y para qué función tecnológica (colorantes, conservantes, etc.). Esto facilita la trazabilidad en caso de alertas sanitarias, permitiendo identificar lotes específicos.
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
@@ -124,7 +124,7 @@
               figure
                 img(src="@/assets/curso/temas/tema_4/img_16.png", alt="alt")
             .crd_hover_txt--body
-              h4.mb-4 Información nutricional y toma de decisiones.
+              h4.mb-3 Información nutricional y toma de decisiones.
               p.mb-1.text-small Permite al consumidor conocer el aporte calórico y la composición de macronutrientes (grasas, azúcares, proteínas). En la actualidad, esto es vital para el manejo de enfermedades metabólicas, permitiendo elegir productos con mejores perfiles nutricionales o menores índices glucémicos.
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
