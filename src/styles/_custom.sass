@@ -96,7 +96,8 @@ figcaption
 
     &--fondo-1
       background-image: url('../assets/curso/introduccion/img_2.png')
-  
+    &--fondo-2
+      background-image: url('../assets/curso/temas/tema_1/img_14.png')
     
 
     [class*="cita-decorada__imagen-flotante"]
@@ -111,6 +112,16 @@ figcaption
       margin: 0 auto
       @media (max-width: 1025px)
         transform: translateY(-50px) translateX(-30px)
+        max-width: 90px
+    
+    .cita-decorada__imagen-flotante-2
+      position: absolute
+      transform: translateY(-60px) translateX(-10px)
+      z-index: 3
+      max-width: 100px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-50px) translateX(-5px)
         max-width: 90px
 
 // Fondos 

@@ -101,14 +101,17 @@
           figure
             img(src='@/assets/curso/temas/tema_1/img_13.png', class="img-fluid")
         .col-12.col-lg-8(data-aos="fade-right")
-          .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden
-            .row.justify-content-center.align-items-center.mb-0.h-100
-              .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
-                figure.p-0.m-0.h-100
-                  img(src="@/assets/curso/temas/tema_1/img_14.svg" class="img-fluid w-100").p-0
-              .col-12.col-lg-9.p-4
-                p.mb-0 Los aditivos alimentarios tienen como objetivos principales evitar el deterioro de los productos tras su producción y mejorar su aceptación comercial mediante una presentación más agradable. Según Ibáñez et al. (2003), sus funciones incluyen conservar, potenciar el sabor, mezclar, espesar, añadir color, mantener la consistencia y calidad, además de compensar carencias nutricionales.
-
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12.col-lg-12(data-aos="zoom-in-right")
+              .cita-decorada
+                blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
+                  .row.justify-content-center.align-items-center
+                    .col-2.col-lg-2.d-none.d-lg-block
+                      figure
+                        img(src='@/assets/curso/temas/tema_1/img_14.svg', class="cita-decorada__imagen-flotante-4")
+                    .col-12.col-lg-10
+                      p.cita-decorada__texto.mb-2.p-3 Los aditivos alimentarios tienen como objetivos principales evitar el deterioro de los productos tras su producción y mejorar su aceptación comercial mediante una presentación más agradable. Según Ibáñez et al. (2003), sus funciones incluyen conservar, potenciar el sabor, mezclar, espesar, añadir color, mantener la consistencia y calidad, además de compensar carencias nutricionales.
+                  
           .tarjeta.color-secundario-5.p-3.rounded-0.mb-3(data-aos="fade-right")
             p.mb-0 Pese a las críticas sobre su impacto en la salud y la artificialidad de la dieta, su uso está justificado al ser fundamentales para la conservación y el manejo de las propiedades organolépticas de los alimentos.
       
@@ -127,14 +130,18 @@
             img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block").mb-5
             img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado de Ibáñez et al, 2003.
+    
+    .row.justify-content-center.align-items-center.mb-3
+    .col-12.col-lg-12(data-aos="zoom-in-right")
+      .cita-decorada
+        blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-11
+              p.cita-decorada__texto.mb-2.p-3 Es fundamental que los aditivos alimentarios cumplan con la legislación vigente y los parámetros internacionales para garantizar la inocuidad y niveles de toxicidad seguros (Ibáñez et al., 2003). Su incorporación en cualquier etapa del proceso busca cumplir funciones tecnológicas, como mejorar la conservación, las propiedades sensoriales y las características físicas del producto (OMS, 2023).
+            .col-2.col-lg-1.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/tema_1/img_18.svg', class="cita-decorada__imagen-flotante-1")
 
-    .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="fade-right")
-      .row.justify-content-center.align-items-center.mb-0.h-100
-        .col-12.col-lg-9.p-4
-          p.mb-0 Es fundamental que los aditivos alimentarios cumplan con la legislación vigente y los parámetros internacionales para garantizar la inocuidad y niveles de toxicidad seguros (Ibáñez et al., 2003). Su incorporación en cualquier etapa del proceso busca cumplir funciones tecnológicas, como mejorar la conservación, las propiedades sensoriales y las características físicas del producto (OMS, 2023).
-        .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
-          figure.p-0.m-0.h-100
-            img(src="@/assets/curso/temas/tema_1/img_18.svg" class="img-fluid w-100").p-0
 </template>
 
 <script>
