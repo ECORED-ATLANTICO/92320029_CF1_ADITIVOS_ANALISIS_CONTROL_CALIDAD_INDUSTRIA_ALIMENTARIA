@@ -9,7 +9,7 @@
       h1 Introducción
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/introduccion/img_1.png", class="img-fluid")
       .col-12.col-lg-9(data-aos="zoom-in-right")

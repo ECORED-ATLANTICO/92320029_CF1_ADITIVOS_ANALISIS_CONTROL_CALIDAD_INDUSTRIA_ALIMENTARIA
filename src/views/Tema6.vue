@@ -101,7 +101,7 @@
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
               span <B>De Miligramos a Kilogramos:</B> Divida por 1,000,000 para obtener la fracción de masa en kg.
-        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")
 

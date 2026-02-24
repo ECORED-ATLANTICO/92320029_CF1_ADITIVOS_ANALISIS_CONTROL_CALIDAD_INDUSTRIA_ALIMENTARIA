@@ -19,7 +19,7 @@
                 img(src='@/assets/curso/temas/tema_4/img_2.png', class="img-fluid")
             .col-12.col-lg-11.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
               p.mb-3 Por otra parte, el etiquetado de los productos alimenticios cumple una función multidimensional que va más allá de ser un simple requisito legal; es la herramienta principal de comunicación entre el fabricante y el consumidor final.
-        .col-8.col-lg-7.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-12.col-lg-7.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_3.png", class="img-fluid")
 
@@ -45,7 +45,7 @@
           h5 Figura 6.
           span Codificación internacional de aditivos alimentarios.
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/temas/tema_4/img_5.svg', class="img-fluid d-none d-lg-block mb-0").mb-5
+          img(src='@/assets/curso/temas/tema_4/img_5.svg', class="img-fluid d-none d-lg-block mb-0", alt="En la figura se describen los códigos de clasificación internacionales de aditivos alimentarios.").mb-5
           img(src='@/assets/curso/temas/tema_4/img_6.svg', class="img-fluid d-block d-lg-none mb-0").mb-5
         figcaption(data-aos="zoom-in-right") Nota.  Adaptado <em>Codex Alimentarius.</em> (2024).
 
@@ -64,15 +64,15 @@
     .bg_img_13.mb-3
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-lg-7
+        .col-12.col-md-6.col-lg-6
           .tarjeta.color-primario.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-6.mb-lg-0.mb-3
+              .col-12.col-md-12.col-lg-4.col-xl-4.mb-lg-0.mb-3
                 figure
                   img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid w-100")
-              .col-12.col-lg-6.mb-lg-0
+              .col-12.col-md-12.col-lg-8.col-xl-8.mb-lg-0
                 h2.text-white.mb-5 Pódcast
-                TarjetaAudio.color-acento-botones.mb-0.p-5(
+                TarjetaAudio.color-acento-botones.mb-0.p-4(
                   texto="Etiquetas bajo la lupa"
                   :audio="require('@/assets/curso/temas/tema_4/img_10.png')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = True")
@@ -85,7 +85,7 @@
       .mb-0
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-9(data-aos="zoom-in-right")
+      .col-12.col-lg-9.order-2.order-md-2.order-lg-1
         .tarjeta.color-primario-5.p-3.rounded-0.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-1.d-lg-block.d-none
@@ -94,7 +94,7 @@
             .col-12.col-lg-11.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
               p.mb-3 El etiquetado de alimentos debe reflejar de manera clara y veraz la información relacionada con los aditivos utilizados, garantizando el derecho a la información del consumidor. Su propósito fundamental es garantizar, bajo un enfoque de seguridad y técnica alimentaria su inocuidad, rastre habilidad información nutricional y permitir la toma de decisiones del potencial consumidor. 
         p.mb-0 A continuación se describen los requisitos que debe contener una etiqueta bajo un enfoque de seguridad y técnica alimentaria:  
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-12.col-lg-3.order-1.order-md-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")
     
@@ -108,7 +108,7 @@
                 img(src="@/assets/curso/temas/tema_4/img_14.png", class="img-fluid").p-0
             .crd_hover_txt--body
               h4.mb-3 Garantía de inocuidad y salud pública.
-              p.mb-3.text-small El etiquetado permite identificar la presencia de alérgenos (como sulfitos, gluten, lácteos o frutos secos) que pueden causar reacciones adversas graves en poblaciones sensibles. Asimismo, proporciona instrucciones críticas sobre el modo de empleo y conservación, asegurando que el alimento se mantenga estable y seguro hasta su consumo.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+              p.mb-3 El etiquetado permite identificar la presencia de alérgenos (como sulfitos, gluten, lácteos o frutos secos) que pueden causar reacciones adversas graves en poblaciones sensibles. Asimismo, proporciona instrucciones críticas sobre el modo de empleo y conservación, asegurando que el alimento se mantenga estable y seguro hasta su consumo.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
@@ -117,7 +117,8 @@
                 img(src="@/assets/curso/temas/tema_4/img_15.png", class="img-fluid")
             .crd_hover_txt--body
               h4.mb-3 Transparencia y rastreabilidad.
-              p.mb-0.text-small A través del Sistema Internacional de Numeración (SIN) y la nomenclatura europea (códigos E), el etiquetado informa con precisión qué aditivos se han utilizado y para qué función tecnológica (colorantes, conservantes, etc.). Esto facilita la trazabilidad en caso de alertas sanitarias, permitiendo identificar lotes específicos.
+              p.mb-0 A través del Sistema Internacional de Numeración (SIN) y la nomenclatura europea (códigos E), el etiquetado informa con precisión qué aditivos se han utilizado y para qué función tecnológica (colorantes, conservantes, etc.). Esto facilita la trazabilidad en caso de alertas sanitarias, permitiendo identificar lotes específicos.
+        
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
@@ -125,15 +126,16 @@
                 img(src="@/assets/curso/temas/tema_4/img_16.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 Información nutricional y toma de decisiones.
-              p.mb-1.text-small Permite al consumidor conocer el aporte calórico y la composición de macronutrientes (grasas, azúcares, proteínas). En la actualidad, esto es vital para el manejo de enfermedades metabólicas, permitiendo elegir productos con mejores perfiles nutricionales o menores índices glucémicos.
+              p.mb-0 Permite al consumidor conocer el aporte calórico y la composición de macronutrientes (grasas, azúcares, proteínas). En la actualidad, esto es vital para el manejo de enfermedades metabólicas, permitiendo elegir productos con mejores perfiles nutricionales o menores índices glucémicos.
+        
         .col-xl-3.col-lg-5.col-md-8.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
                 img(src="@/assets/curso/temas/tema_4/img_17.png", alt="alt")
             .crd_hover_txt--body
-              h4.mb-4 Identificación técnica de aditivos.
-              p.mb-1.text-small El uso de códigos estandarizados asegura que el consumidor sepa que los aditivos han pasado por controles de calidad y seguridad estrictos por organismos como la EFSA o el Codex Alimentarius. La clasificación por grupos (E-100 para colorantes, E-200 para conservantes, etc.) ayuda a entender la naturaleza del ingrediente sin necesidad de nombres químicos complejos.
+              h4.mb-3 Identificación técnica de aditivos.
+              p.mb-0 El uso de códigos estandarizados asegura que el consumidor sepa que los aditivos han pasado por controles de calidad y seguridad estrictos por organismos como la EFSA o el Codex Alimentarius. La clasificación por grupos (E-100 para colorantes, E-200 para conservantes, etc.) ayuda a entender la naturaleza del ingrediente sin necesidad de nombres químicos complejos.
 
       Separador
  
@@ -142,7 +144,7 @@
       .mb-0
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
+      .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_4/img_18.png', class="img-fluid")
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -154,7 +156,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1
-          .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
+          .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--04
@@ -180,8 +182,8 @@
             figure.p-0.m-0.h-100
               img(src='@/assets/curso/temas/tema_4/img_24.png' class="img-fluid w-100 h-100 object-fit-cover").p-0
               
-    .row.justify-content-center.align-items-strat.mb-5
-      .col-9.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+    .row.justify-content-center.align-items-start.mb-5
+      .col-md-10.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_4/img_25.png', class="img-fluid")
       .col-12.col-lg-9.order-2.order-lg-1.mb-3
@@ -206,7 +208,7 @@
             p.mb-0 Es la autoridad sanitaria de ejecución. Su labor es la vigilancia, inspección y control (IVC) en las plantas de producción, asegurando que las empresas cumplan con las dosis máximas permitidas.
           div(titulo="ICA (Instituto Colombiano Agropecuario)")
             p.mb-0 Aunque su enfoque es primario, regula aditivos en alimentos para animales y sustancias que puedan migrar a la cadena alimentaria humana desde el sector agropecuario.
-      .col-9.col-lg-3.order-1.order-lg-2.mb-3(data-aos="flip-left")
+      .col-md-10.col-lg-3.order-1.order-lg-2.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_4/img_26.png', class="img-fluid")
       
@@ -261,7 +263,7 @@
     .bg_img_16.mb-3
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_4/img_29.png', class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
@@ -281,7 +283,7 @@
       .mb-0
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-8(data-aos="zoom-in-right")
+      .col-12.col-lg-9.order-2.order-md-2.order-lg-1(data-aos="zoom-in-right")
         .tarjeta.color-secundario-5.p-3.rounded-0.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-2.d-lg-block.d-none
@@ -290,7 +292,7 @@
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
               p.mb-3 La eficacia de los aditivos para mejorar la durabilidad e higiene de los alimentos depende directamente de su correcta manipulación y almacenamiento. El Codex Alimentarius enfatiza que un aditivo mal gestionado puede pasar de ser un agente de conservación a un foco de contaminación química o física.
         p.mb-0 Es fundamental que todas las personas involucradas en la cadena de transformación sigan protocolos específicos para garantizar la inocuidad del aditivo antes de su incorporación al producto:
-      .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-12.col-lg-3.order-1.order-md-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_4/img_32.png", class="img-fluid")
     
@@ -301,7 +303,7 @@
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/temas/tema_4/img_34.png', class="img-fluid")
         .col-12.col-lg-8
-          .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
+          .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--07

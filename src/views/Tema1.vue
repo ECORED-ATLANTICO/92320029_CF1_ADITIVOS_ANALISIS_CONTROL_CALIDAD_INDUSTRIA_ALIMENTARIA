@@ -28,14 +28,14 @@
       .mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_1/img_4.png', class="img-fluid")
         .col-12.col-lg-9
           .row.justify-content-center.align-items-center.mb-3
-            .col-8.col-lg-10.mb-lg-0.mb-3(data-aos="fade-right")
+            .col-12.col-lg-10.mb-lg-0.mb-3(data-aos="fade-right")
               p.mb-0 Desde el Paleolítico, el ser humano ha utilizado aditivos como la sal, el ahumado y el zumo de limón para conservar alimentos. Con el desarrollo de la agricultura y la ganadería, se integraron el azafrán, la sal de nitro y el vinagre para mejorar la palatabilidad y gestionar excedentes.
-            .col-8.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="flip-left")
+            .col-12.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="flip-left")
               figure
                 img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid w-100")
           
@@ -100,12 +100,12 @@
             h5 Figura 1.
             |    Objetivos de los aditivos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block", alt="Mejorar las caracteríaticas sensoriales y de palatabilidad.- Poner el alimento en las condiciones más adecuadas para su ingestión.- Alargar la vida útil del producto.- Mejorar sus propiedades fisicoquímicas.").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none", alt="Mejorar las caracteríaticas sensoriales y de palatabilidad.- Poner el alimento en las condiciones más adecuadas para su ingestión.- Alargar la vida útil del producto.- Mejorar sus propiedades fisicoquímicas.").mb-5
             figcaption Nota. Adaptado de Ibáñez et al, 2003.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_1/img_13.png', class="img-fluid")
         .col-12.col-lg-8(data-aos="fade-right")
@@ -135,8 +135,8 @@
             h5 Figura 2.
             |    Funciones específicas de los aditivos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block", alt="Mantener el pan sin moho.- Evitar que los aliños de la ensalada se separen. - Curar la carne.- Dar a la margarina el color amarillo característico.- Solidificar las mermeladas. ").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none", alt="Mantener el pan sin moho.- Evitar que los aliños de la ensalada se separen. - Curar la carne.- Dar a la margarina el color amarillo característico.- Solidificar las mermeladas. ").mb-5
             figcaption Nota. Adaptado de Ibáñez et al, 2003.
     
     .row.justify-content-center.align-items-center.mb-3

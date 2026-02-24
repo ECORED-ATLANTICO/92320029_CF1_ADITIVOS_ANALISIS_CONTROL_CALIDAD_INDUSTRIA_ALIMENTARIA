@@ -32,7 +32,7 @@
     .bg_img_19.mb-3
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_5/img_5.png', class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
@@ -51,8 +51,8 @@
             h5 Figura 7.
             span Pilares del análisis fisicoquímico en el uso de aditivos
           figure(data-aos="zoom-in-right").mb-3
-            img(src='@/assets/curso/temas/tema_5/img_7.svg', class="img-fluid d-none d-lg-block mb-0").mb-5
-            img(src='@/assets/curso/temas/tema_5/img_8.svg', class="img-fluid d-block d-lg-none mb-0").mb-5
+            img(src='@/assets/curso/temas/tema_5/img_7.svg', class="img-fluid d-none d-lg-block mb-0", alt="Pilares del análisis fisicoquímico en el uso de aditivos. Validación Tecnológica: pruebas de viscosimetría, reología y potenciometría aseguran que estabilizantes y reguladores de pH logren la textura y seguridad microbiológica sin afectar el sabor. Control de dosificación: mediante técnicas como la Cromatografía Líquida de Alta Resolución (HPLC), se garantiza el cumplimiento de la Resolución 2606 de 2009 y los límites de Ingesta Diaria Admisible (IDA) para conservantes y edulcorantes. Estabilidad y vida ítil: evaluaciones de oxidación lipídica y estabilidad acelerada validan la eficacia de antioxidantes, emulsionantes y colorantes bajo condiciones críticas de almacenamiento. Pureza y especificaciones: el uso de Espectroscopía de Absorción Atómica asegura que los aditivos cumplan con los estándares de pureza del Codex Alimentarius y la FDA, descartando contaminantes o metales pesados.").mb-5
+            img(src='@/assets/curso/temas/tema_5/img_8.svg', class="img-fluid d-block d-lg-none mb-0", alt="Pilares del análisis fisicoquímico en el uso de aditivos. Validación Tecnológica: pruebas de viscosimetría, reología y potenciometría aseguran que estabilizantes y reguladores de pH logren la textura y seguridad microbiológica sin afectar el sabor. Control de dosificación: mediante técnicas como la Cromatografía Líquida de Alta Resolución (HPLC), se garantiza el cumplimiento de la Resolución 2606 de 2009 y los límites de Ingesta Diaria Admisible (IDA) para conservantes y edulcorantes. Estabilidad y vida ítil: evaluaciones de oxidación lipídica y estabilidad acelerada validan la eficacia de antioxidantes, emulsionantes y colorantes bajo condiciones críticas de almacenamiento. Pureza y especificaciones: el uso de Espectroscopía de Absorción Atómica asegura que los aditivos cumplan con los estándares de pureza del Codex Alimentarius y la FDA, descartando contaminantes o metales pesados.").mb-5
           figcaption(data-aos="zoom-in-right") Nota. Adaptado de INVIMA (2025).
     
     p.mb-3 A continuación se detalla una tabla que incluye las diferentes técnicas analíticos por grupos de aditivos: 
@@ -60,7 +60,7 @@
     .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
       h5 Tabla 10.
       |  Técnicas analíticas físicoquímicas por grupos de aditivos
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-5
       table
         caption 
           p Nota. Adaptado de INVIMA (2025).

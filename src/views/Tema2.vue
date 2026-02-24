@@ -8,7 +8,7 @@
       h1 Origen, tipos y clasificación de los aditivos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-5.mb-lg-0.mb-3(data-aos="flip-left")
+      .col-12.col-lg-5.mb-lg-0.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_2/img_1.png', class="img-fluid")
       .col-12.col-lg-7
@@ -86,7 +86,7 @@
       .mb-0
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")

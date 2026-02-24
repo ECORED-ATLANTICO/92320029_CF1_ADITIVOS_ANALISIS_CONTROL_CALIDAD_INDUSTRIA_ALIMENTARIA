@@ -32,7 +32,7 @@
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/temas/tema_3/img_4.png', class="img-fluid")
         .col-12.col-lg-8
-          .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
+          .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--01
@@ -155,7 +155,7 @@
       .mb-0
 
       .row.d-flex.align-items-stretch.justify-content-center.mb-0 
-        .col-12.col-md-6.col-lg-3.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
+        .col-12.col-md-6.col-lg-6.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
           .w-100.d-flex.flex-column
             .tarjeta--blanca-2.p-3.h-100
               .row.justify-content-center.align-items-center.mb-0.p-0
@@ -164,7 +164,7 @@
                     img(src="@/assets/curso/temas/tema_3/img_9.svg", class="img-fluid")
                 .col-12.col-lg-12
                   p.mb-0 Los conservantes son sustancias bioactivas esenciales para mitigar el deterioro microbiológico y químico de los alimentos, prolongando su vida útil y preservando sus propiedades nutricionales. Entre ellos destacan los sulfitos, agentes antimicrobianos fundamentales para estabilizar vinos, preservar frutas deshidratadas y mantener la inocuidad en vegetales.
-        .col-12.col-md-6.col-lg-3.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
+        .col-12.col-md-6.col-lg-6.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
           .w-100.d-flex.flex-column
             .tarjeta--blanca-2.p-3.h-100
               .row.justify-content-center.align-items-center.mb-0.p-0
@@ -173,7 +173,7 @@
                     img(src="@/assets/curso/temas/tema_3/img_10.svg", class="img-fluid")
                 .col-12.col-lg-12
                   p.mb-0 A pesar de la actual tendencia hacia productos de "etiqueta limpia" (Clean Label) y el uso de tecnologías físicas como el envasado al vacío o la cadena de frío, estos métodos no siempre son factibles debido a la termolabilidad de ciertos nutrientes o limitaciones logísticas. En consecuencia, el uso de conservantes químicos sigue siendo la estrategia más viable y segura para garantizar la seguridad alimentaria global.
-        .col-12.col-md-6.col-lg-3.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
+        .col-12.col-md-6.col-lg-6.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
           figure
             img(src="@/assets/curso/temas/tema_3/img_11.png", class="img-fluid")
 
@@ -240,7 +240,7 @@
     .mb-0
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+      .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/temas/tema_3/img_13.png', class="img-fluid")
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -334,8 +334,8 @@
             h5 Figura 3.
             |    Principales aplicaciones y funciones de los edulcorantes
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_17.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/temas/tema_3/img_18.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_17.svg', class="img-fluid d-none d-lg-block", alt="Principales aplicaciones y funciones de los edulcorantes.- Aportar dulzor a un producto.- Neutralizar el sabor astringente.- Reducir el crecimiento microbiano.- Conservar y reazar el sabor de carnes curadas.- Fermentar panes, bebidas alcohólicas y vinagres.- Dar cuerpo y textura a jarabes, dulces, helados y panes.- Mejora control del punto de congelación y cristalización.").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_18.svg', class="img-fluid d-block d-lg-none", alt="Principales aplicaciones y funciones de los edulcorantes.- Aportar dulzor a un producto.- Neutralizar el sabor astringente.- Reducir el crecimiento microbiano.- Conservar y reazar el sabor de carnes curadas.- Fermentar panes, bebidas alcohólicas y vinagres.- Dar cuerpo y textura a jarabes, dulces, helados y panes.- Mejora control del punto de congelación y cristalización.").mb-5
             figcaption Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
@@ -425,8 +425,8 @@
             h5 Figura 4.
             |    Principales funciones de los estabilizantes
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_23.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/temas/tema_3/img_24.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_23.svg', class="img-fluid d-none d-lg-block", alt="En la figura 4 se enuncian las principales funciones de las estabilizantes:- Aumentar la viscosidad.- Mejorar la incorporación del aire.- Mejorar la distribución del aire. - Mejorar la textura.- Prevenir o reducir la formación de cristales de hielo.- Prevenir la separación del suero.").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_24.svg', class="img-fluid d-block d-lg-none", alt="En la figura 4 se enuncian las principales funciones de las estabilizantes:- Aumentar la viscosidad.- Mejorar la incorporación del aire.- Mejorar la distribución del aire. - Mejorar la textura.- Prevenir o reducir la formación de cristales de hielo.- Prevenir la separación del suero.").mb-5
             figcaption Nota. Adaptado Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 Los estabilizantes más usados en la industria alimentaria, sus características y usos principales se pueden observar en la siguiente tabla:
@@ -486,7 +486,7 @@
       .mb-0
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_3/img_26.png', class="img-fluid")
         .col-12.col-lg-9(data-aos="fade-right")
@@ -506,8 +506,8 @@
             h5 Figura 5.
             |    Principales aplicaciones de los reguladores de pH
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_28.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/temas/tema_3/img_29.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_28.svg', class="img-fluid d-none d-lg-block", alt="Ayudan a controlar la acidez o alcalinidad de un alimento. Mediante la regulación del pH inhiben hongos y bacterias. Por ser también antioxidantes, aumentan la vida útil de los alimentos. Contribuyen a la conservación de los alimentos. Permiten reforzar los sabores. Sirven como complemento de la sensación de dulzor producida por el azúcar.").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_29.svg', class="img-fluid d-block d-lg-none", alt="Ayudan a controlar la acidez o alcalinidad de un alimento. Mediante la regulación del pH inhiben hongos y bacterias. Por ser también antioxidantes, aumentan la vida útil de los alimentos. Contribuyen a la conservación de los alimentos. Permiten reforzar los sabores. Sirven como complemento de la sensación de dulzor producida por el azúcar.").mb-5
             figcaption Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 En la siguiente tabla se muestran algunos de los reguladores de pH más usados en la industria alimentaria, sus características y usos frecuentes:
