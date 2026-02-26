@@ -90,7 +90,7 @@
           figure
             img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-3 El Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025) clasifica los aditivos de acuerdo con su función tecnológica en categorías como colorantes, conservantes, antioxidantes, estabilizantes, acidulantes, edulcorantes y potenciadores del sabor, lo que facilita su correcta selección y aplicación. 
+          p.mb-3 El <em>Codex Alimentarius</em> de la Organización Mundial de la Salud (OMS, 2025) clasifica los aditivos de acuerdo con su función tecnológica en categorías como colorantes, conservantes, antioxidantes, estabilizantes, acidulantes, edulcorantes y potenciadores del sabor, lo que facilita su correcta selección y aplicación. 
           p.mb-0 Cada grupo cumple una función específica que impacta la estabilidad, apariencia, sabor o vida útil del alimento.
         .col-10.col-lg-1.d-lg-block.d-none.mb-lg-0.mb-3(data-aos="flip-left")
           figure
@@ -102,7 +102,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
+            p Nota. Adaptado del <em>Codex Alimentarius</em> de la Organización Mundial de la Salud (OMS, 2025).
           thead
             tr
               th Tipo de aditivo

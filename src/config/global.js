@@ -312,7 +312,7 @@ export default {
     },
     {
       referencia:
-        'Codex Alimentarius. (2024). <em>Norma General para los Aditivos Alimentarios (Codex Stan 192-1995)</em>. Revisión de 2024. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
+        '<em>Codex Alimentarius.</em> (2024). <em>Norma General para los Aditivos Alimentarios (Codex Stan 192-1995)</em>. Revisión de 2024. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
       link: 'https://www.fao.org/fao-who-codexalimentarius/home/es/',
     },
     {

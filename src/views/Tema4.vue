@@ -135,7 +135,7 @@
                 img(src="@/assets/curso/temas/tema_4/img_17.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 Identificación técnica de aditivos.
-              p.mb-0 El uso de códigos estandarizados asegura que el consumidor sepa que los aditivos han pasado por controles de calidad y seguridad estrictos por organismos como la EFSA o el Codex Alimentarius. La clasificación por grupos (E-100 para colorantes, E-200 para conservantes, etc.) ayuda a entender la naturaleza del ingrediente sin necesidad de nombres químicos complejos.
+              p.mb-0 El uso de códigos estandarizados asegura que el consumidor sepa que los aditivos han pasado por controles de calidad y seguridad estrictos por organismos como la EFSA o el <em>Codex Alimentarius</em>. La clasificación por grupos (E-100 para colorantes, E-200 para conservantes, etc.) ayuda a entender la naturaleza del ingrediente sin necesidad de nombres químicos complejos.
 
       Separador
  
@@ -189,7 +189,7 @@
       .col-12.col-lg-9.order-2.order-lg-1.mb-3
         p.mb-3 A nivel internacional los organismos vigentes y más relevantes son los siguientes: 
         AcordionA(tipo="a"  clase-tarjeta="tarjeta tarjeta--color-secundario-10")
-          div(titulo="Codex Alimentarius (FAO/OMS)")
+          div(titulo="<em>Codex Alimentarius</em> (FAO/OMS)")
             p.mb-0 Es el máximo referente mundial. Su Norma General para los Aditivos Alimentarios (GSFA) es la base de las legislaciones de la mayoría de los países.
           div(titulo="JECFA (Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios)")
             p.mb-0 Es el cuerpo científico independiente que realiza las evaluaciones de riesgo y establece las especificaciones de identidad y pureza de los aditivos.
@@ -268,13 +268,13 @@
             img(src='@/assets/curso/temas/tema_4/img_29.png', class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
           .tarjeta.color-primario-5.p-3.rounded-0.mb-3(data-aos="zoom-in-right")
-            p.mb-0 El procedimiento identifica el Nivel sin Efecto Adverso Observado (NOAEL) para calcular la Ingesta Diaria Admisible (IDA). Según los estándares de la Unión Europea y el Codex Alimentarius, se aplica un factor de seguridad de 100 veces sobre el NOAEL para cubrir variabilidades biológicas y asegurar que el consumo de por vida no represente riesgos.
+            p.mb-0 El procedimiento identifica el Nivel sin Efecto Adverso Observado (NOAEL) para calcular la Ingesta Diaria Admisible (IDA). Según los estándares de la Unión Europea y el <em>Codex Alimentarius</em>, se aplica un factor de seguridad de 100 veces sobre el NOAEL para cubrir variabilidades biológicas y asegurar que el consumo de por vida no represente riesgos.
           .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-right")
             .col-2.col-lg-1.d-none.d-lg-block.p-4
               figure
                 img(src='@/assets/curso/temas/tema_4/img_30.png', class="img-fluid")
             .col-12.col-lg-11.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
-              p.mb-3  Finalmente, la Comisión del Codex Alimentarius (FAO/OMS) garantiza la armonización científica de estas normas, facilitando el comercio y la protección del consumidor. En 2025, el enfoque se ha intensificado en la vigilancia de la exposición acumulativa para preservar la integridad sistémica del individuo frente a la dieta total.
+              p.mb-3  Finalmente, la Comisión del <em>Codex Alimentarius</em> (FAO/OMS) garantiza la armonización científica de estas normas, facilitando el comercio y la protección del consumidor. En 2025, el enfoque se ha intensificado en la vigilancia de la exposición acumulativa para preservar la integridad sistémica del individuo frente a la dieta total.
 
       Separador
 
@@ -290,7 +290,7 @@
               figure
                 img(src='@/assets/curso/temas/tema_4/img_31.png', class="img_fluid")
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-              p.mb-3 La eficacia de los aditivos para mejorar la durabilidad e higiene de los alimentos depende directamente de su correcta manipulación y almacenamiento. El Codex Alimentarius enfatiza que un aditivo mal gestionado puede pasar de ser un agente de conservación a un foco de contaminación química o física.
+              p.mb-3 La eficacia de los aditivos para mejorar la durabilidad e higiene de los alimentos depende directamente de su correcta manipulación y almacenamiento. El <em>Codex Alimentarius</em> enfatiza que un aditivo mal gestionado puede pasar de ser un agente de conservación a un foco de contaminación química o física.
         p.mb-0 Es fundamental que todas las personas involucradas en la cadena de transformación sigan protocolos específicos para garantizar la inocuidad del aditivo antes de su incorporación al producto:
       .col-12.col-lg-3.order-1.order-md-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure

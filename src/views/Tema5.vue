@@ -43,7 +43,7 @@
                 figure.p-0.m-0.h-100
                   img(src="@/assets/curso/temas/tema_5/img_6.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
               .col-12.col-lg-9.p-4
-                p.mb-0 Este rigor analítico garantiza la conformidad con la Resolución 2606 de 2009 y los estándares del Codex Alimentarius, asegurando la inocuidad alimentaria y la transparencia en el etiquetado. El proceso se fundamenta en los siguientes pilares: 
+                p.mb-0 Este rigor analítico garantiza la conformidad con la Resolución 2606 de 2009 y los estándares del <em>Codex Alimentarius</em>, asegurando la inocuidad alimentaria y la transparencia en el etiquetado. El proceso se fundamenta en los siguientes pilares: 
 
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-10 
