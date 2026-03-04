@@ -249,7 +249,7 @@ export default {
         {
           id: 18,
           texto:
-            'El glutamato monosódico actúa potenciando el sabor <em>UMAMI</em> sin aportar valor nutricional esencial.',
+            'El glutamato monosódico actúa potenciando el sabor <em>UMA</em> sin aportar valor nutricional esencial.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

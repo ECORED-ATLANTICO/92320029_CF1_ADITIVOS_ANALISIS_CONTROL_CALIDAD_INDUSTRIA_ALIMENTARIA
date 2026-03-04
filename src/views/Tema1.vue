@@ -102,7 +102,7 @@
           figure(data-aos="flip-left")
             img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block", alt="Mejorar las caracteríaticas sensoriales y de palatabilidad.- Poner el alimento en las condiciones más adecuadas para su ingestión.- Alargar la vida útil del producto.- Mejorar sus propiedades fisicoquímicas.").mb-5
             img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none", alt="Mejorar las caracteríaticas sensoriales y de palatabilidad.- Poner el alimento en las condiciones más adecuadas para su ingestión.- Alargar la vida útil del producto.- Mejorar sus propiedades fisicoquímicas.").mb-5
-            figcaption Nota. Adaptado de Ibáñez et al, 2003.
+            figcaption Nota. Adaptado de Ibáñez et al, (2003).
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")

@@ -56,7 +56,7 @@
           .col-12.col-lg-2.mb-5.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema_4/img_7.svg", class="img-fluid w-100")
           .col-12.col-lg-12
-            p.mb-0 Es imperativo que el experto en calidad reconozca que el SIN es un sistema dinámico y de carácter abierto. Debido a la constante innovación biotecnológica y la incorporación de nuevos aditivos, como los conservantes de origen natural o edulcorantes de nueva generación, la secuencia numérica original ha sufrido expansiones. 
+            p.mb-0 Es imperativo que el experto en calidad reconozca que el SIN es un sistema dinámico y de carácter abierto. Debido a la constante innovación biotecnológica y la incorporación de nuevos aditivos, como los conservantes de origen natural o edulcorantes de nueva generación, la secuencia numérica original ha sufrido expansiones. En consecuencia, aunque la mayoría de los códigos mantienen su correlación funcional estricta, existen excepciones donde la asignación responde a la cronología de aprobación y no necesariamente a su grupo funcional primario. Esta flexibilidad técnica exige que los profesionales del área consulten periódicamente las actualizaciones de la Norma General para los Aditivos Alimentarios de la FAO y la OMS (2024) para garantizar el cumplimiento normativo en las formulaciones industriales. 
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/temas/tema_4/img_8.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
@@ -71,10 +71,11 @@
                 figure
                   img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid w-100")
               .col-12.col-md-12.col-lg-8.col-xl-8.mb-lg-0
-                h2.text-white.mb-5 Pódcast
+                h2.text-white.mb-2 Pódcast
+                p.mb-5.text-white Escuche el siguiente podcast etiquetas bajo la lupa, cómo leer y entender los códigos E en tus alimentos:
                 TarjetaAudio.color-acento-botones.mb-0.p-4(
-                  texto="Etiquetas bajo la lupa"
-                  :audio="require('@/assets/curso/temas/tema_4/img_10.png')"
+                  texto="Etiquetas bajo la lupa, cómo leer y entender los códigos E en tus alimentos"
+                  :audio="require('@/assets/curso/podcast/Etiquetas_bajo_la_lupa.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = True")
                   .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
@@ -216,7 +217,7 @@
 
     .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
       h5 Tabla 9.
-      |  Conservantes predominantes en la industria alimentaria
+      |  Elementos, normas vigentes y requisitos técnicos de etiquetado en Colombia.
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 

@@ -114,7 +114,7 @@
               td.text-start Brindan más color al producto, mejoran el aspecto visual de los alimentos.
               td.text-start Tartrazina.
             tr
-              td.text-start Conservantes
+              td.text-start Conservantes.
               td.text-start Se emplean para evitar el deterioro de los alimentos a causa de los microorganismos.
               td.text-start Sulfito de sodio.
             tr

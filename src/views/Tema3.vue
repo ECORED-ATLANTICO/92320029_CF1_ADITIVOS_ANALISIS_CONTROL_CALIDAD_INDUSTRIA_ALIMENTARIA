@@ -48,7 +48,7 @@
 
       .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
         h5 Tabla 2.
-        |  Clasificación funcional de los aditivos alimentarios
+        |  Evolución y caracterización de los colorantes alimentarios
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
@@ -126,7 +126,7 @@
             td Clorofilas.
             td.text-start Extracción vegetal (Alfalfa/Espinaca).
             td Nulo.
-            td.text-start Inestables al calor y la luz a menos que se presenten como Clorofilinas de Cobre (E-141). Esencial en la tendencia Clean Label.
+            td.text-start Inestables al calor y la luz a menos que se presenten como Clorofilinas de Cobre (E-141). Esencial en la tendencia <em>Clean Label</em>.
           tr
             td E-150 (a-d).
             td Caramelo.
@@ -172,7 +172,7 @@
                   figure
                     img(src="@/assets/curso/temas/tema_3/img_10.svg", class="img-fluid")
                 .col-12.col-lg-12
-                  p.mb-0 A pesar de la actual tendencia hacia productos de "etiqueta limpia" (Clean Label) y el uso de tecnologías físicas como el envasado al vacío o la cadena de frío, estos métodos no siempre son factibles debido a la termolabilidad de ciertos nutrientes o limitaciones logísticas. En consecuencia, el uso de conservantes químicos sigue siendo la estrategia más viable y segura para garantizar la seguridad alimentaria global.
+                  p.mb-0 A pesar de la actual tendencia hacia productos de "etiqueta limpia" (<em>Clean Label</em>) y el uso de tecnologías físicas como el envasado al vacío o la cadena de frío, estos métodos no siempre son factibles debido a la termolabilidad de ciertos nutrientes o limitaciones logísticas. En consecuencia, el uso de conservantes químicos sigue siendo la estrategia más viable y segura para garantizar la seguridad alimentaria global.
         .col-12.col-md-6.col-lg-6.col-xl-4.d-flex.mb-3.mb-xl-0.mb-3(data-aos="flip-left")
           figure
             img(src="@/assets/curso/temas/tema_3/img_11.png", class="img-fluid")
@@ -217,7 +217,7 @@
             td Nisina.
             td.text-start Biosíntesis (Lactococcus lactis).
             td Nula (Natural).
-            td.text-start Bacteriocina de origen natural. Altamente efectiva contra bacterias Gram-positivas y esporas. Pilar de la tendencia Clean Label en quesos y conservas cárnicas. 
+            td.text-start Bacteriocina de origen natural. Altamente efectiva contra bacterias Gram-positivas y esporas. Pilar de la tendencia <em>Clean Label</em> en quesos y conservas cárnicas. 
           tr
             td E-249 - E-252.
             td Nitritos y nitratos.
@@ -518,7 +518,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptado del <em>Codex Alimentarius</em> (2024).
+          p Nota. Adaptado Organización Mundial de la Salud (OMS, 2025).
         thead
           tr
             th.col-auto.col-lg-2 Código

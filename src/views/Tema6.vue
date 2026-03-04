@@ -63,27 +63,27 @@
           tr
             td.text-start Masa (Trazas).
             td.text-start 1 miligramo (mg).
-            td.text-start 1,000 microgramos (g)
+            td.text-start 1,000 microgramos (μg).
             td.text-start Análisis de contaminantes o vitaminas.
           tr
             td.text-start Volumen.
             td.text-start 1 litro (L).
-            td.text-start 1,000 mililitros (ml) o 1 dm3
+            td.text-start 1,000 mililitros (ml) o 1 dm3.
             td.text-start Preparación de soluciones de aditivos líquidos.
           tr
             td.text-start Volumen (Mínimo).
             td.text-start 1 mililitro (ml).
-            td.text-start 1 centímetro cúbico (cm3 o cc)
+            td.text-start 1 centímetro cúbico (cm3 o cc).
             td.text-start Dosificación de esencias y colorantes líquidos.
           tr
             td.text-start Concentración.
-            td.text-start 1 % (p/p o p/v)
-            td.text-start 1 g de aditivo por cada 100 g o ml
+            td.text-start 1 % (p/p o p/v).
+            td.text-start 1 g de aditivo por cada 100 g o ml.
             td.text-start Expresión común en reglamentos técnicos.
           tr
             td.text-start Partes por Millón.
-            td.text-start 1 ppm
-            td.text-start 1 mg / kg o 1 mg / L
+            td.text-start 1 ppm.
+            td.text-start 1 mg / kg o 1 mg / L.
             td.text-start Unidad estándar para límites de la IDA y residuos.
     
     .bg_img_21.mb-3
