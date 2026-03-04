@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Nomenclatura y etiquetado
+      h1 Nomenclatura y normatividad en etiquetado de aditivos
 
     .bg_img_12.mb-3
       
@@ -93,7 +93,7 @@
                 img(src='@/assets/curso/temas/tema_4/img_11.svg', class="img_fluid")
             .col-12.col-lg-11.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
               p.mb-3 El etiquetado de alimentos debe reflejar de manera clara y veraz la información relacionada con los aditivos utilizados, garantizando el derecho a la información del consumidor. Su propósito fundamental es garantizar, bajo un enfoque de seguridad y técnica alimentaria su inocuidad, rastre habilidad información nutricional y permitir la toma de decisiones del potencial consumidor. 
-        p.mb-0 A continuación se describen los requisitos que debe contener una etiqueta bajo un enfoque de seguridad y técnica alimentaria:  
+        p.mb-0 A continuación, se describen los requisitos que debe contener una etiqueta bajo un enfoque de seguridad y técnica alimentaria:  
       .col-12.col-lg-3.order-1.order-md-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")

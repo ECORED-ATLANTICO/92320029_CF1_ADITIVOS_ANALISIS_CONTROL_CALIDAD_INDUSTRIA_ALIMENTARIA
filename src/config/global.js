@@ -115,7 +115,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Nomenclatura y etiquetado',
+        titulo: 'Nomenclatura y normatividad en etiquetado de aditivos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -340,7 +340,7 @@ export default {
       referencia:
         'Food and Drug Administration (FDA). (2025). <em>Color Additive Status List: Summary of color additives for use in United States in foods, drugs, cosmetics, and medical devices</em>. U.S. Department of Health and Human Services.',
       link:
-        'https://www.fda.gov/food/food-additives-petitions/color-additive-status-list',
+        'https://www.fda.gov/industry/color-additives/summary-color-additives-use-united-states-foods-drugs-cosmetics-and-medical-devices',
     },
     {
       referencia:

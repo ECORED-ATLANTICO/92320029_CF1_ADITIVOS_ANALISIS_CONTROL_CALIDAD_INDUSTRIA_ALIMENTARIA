@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Usos y Aplicaciones en la Industria Alimentaria
+      h1 Usos y aplicaciones en la industria alimentaria
     
     .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-5.overflow-hidden(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0.h-100
@@ -269,7 +269,7 @@
                     span Enlace
                     i.fas.fa-link.me-2
       
-      p.mb-5 A continuación se describen algunas de las más utilizadas bajo una perspectiva de control de calidad y aseguramiento de la inocuidad:
+      p.mb-5 A continuación, se describen algunas de las más utilizadas bajo una perspectiva de control de calidad y aseguramiento de la inocuidad:
 
     .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
       h5 Tabla 4.
@@ -346,7 +346,7 @@
             figure.p-0.m-0.h-100
               img(src="@/assets/curso/temas/tema_3/img_19.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
     
-    p.mb-5 A continuación se presentan algunos de los principales edulcorantes y sus características:
+    p.mb-5 A continuación, se presentan algunos de los principales edulcorantes y sus características:
 
     .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
       h5 Tabla 5.

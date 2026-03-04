@@ -55,7 +55,7 @@
             img(src='@/assets/curso/temas/tema_5/img_8.svg', class="img-fluid d-block d-lg-none mb-0", alt="Pilares del análisis fisicoquímico en el uso de aditivos. Validación Tecnológica: pruebas de viscosimetría, reología y potenciometría aseguran que estabilizantes y reguladores de pH logren la textura y seguridad microbiológica sin afectar el sabor. Control de dosificación: mediante técnicas como la Cromatografía Líquida de Alta Resolución (HPLC), se garantiza el cumplimiento de la Resolución 2606 de 2009 y los límites de Ingesta Diaria Admisible (IDA) para conservantes y edulcorantes. Estabilidad y vida ítil: evaluaciones de oxidación lipídica y estabilidad acelerada validan la eficacia de antioxidantes, emulsionantes y colorantes bajo condiciones críticas de almacenamiento. Pureza y especificaciones: el uso de Espectroscopía de Absorción Atómica asegura que los aditivos cumplan con los estándares de pureza del Codex Alimentarius y la FDA, descartando contaminantes o metales pesados.").mb-5
           figcaption(data-aos="zoom-in-right") Nota. Adaptado de INVIMA (2025).
     
-    p.mb-3 A continuación se detalla una tabla que incluye las diferentes técnicas analíticos por grupos de aditivos: 
+    p.mb-3 A continuación, se detalla una tabla que incluye las diferentes técnicas analíticos por grupos de aditivos: 
 
     .titulo-sexto.color-acento-botones(data-aos="zoom-in-right")
       h5 Tabla 10.
@@ -72,11 +72,11 @@
         tbody
           tr
             td.text-start Colorantes.
-            td.text-start Espectrofotometría de absorción
+            td.text-start Espectrofotometría de absorción.
             td.text-start Espectrofotómetro UV - Vis.
           tr
             td.text-start Conservantes.
-            td.text-start Determinación de concentración
+            td.text-start Determinación de concentración.
             td.text-start HPLC / GC (Gaseosa).
           tr
             td.text-start Reguladores de pH.
@@ -85,7 +85,7 @@
           tr
             td.text-start Espesantes.
             td.text-start Perfil reológico y viscosidad.
-            td.text-start Viscosímetro Brookfield
+            td.text-start Viscosímetro Brookfield.
           tr
             td.text-start Antioxidantes.
             td.text-start Índice de peroxidación lipídica.

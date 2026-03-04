@@ -19,7 +19,7 @@
             .col-12.col-lg-2.mb-5.d-none.d-lg-block
               img(src="@/assets/curso/temas/tema_6/img_3.png", class="img-fluid w-100")
             .col-12.col-lg-12
-              p.mb-0 El manejo y la conversión de unidades es una competencia transversal crítica cuándo de aditivos en la industria alimentaria se refiere. Una dosificación imprecisa no sólo altera la funcionalidad radiológica o sensorial de la matriz sino que puede comprometer la seguridad psicológica del producto final infringiendo los límites legales permitidos por los organismos de control y vigilancia. 
+              p.mb-0 El manejo y la conversión de unidades es una competencia transversal crítica cuándo de aditivos en la industria alimentaria se refiere. Una dosificación imprecisa no sólo altera la funcionalidad radiológica o sensorial de la matriz, sino que puede comprometer la seguridad psicológica del producto final infringiendo los límites legales permitidos por los organismos de control y vigilancia. 
      
       Separador 
 
@@ -52,27 +52,27 @@
         tbody
           tr
             td.text-start Masa (Sólidos).
-            td.text-start 1 Kilogramo (kg).
+            td.text-start 1 kilogramo (kg).
             td.text-start 1,000 gramos (g).
             td.text-start Pesaje de materias primas a granel.
           tr
             td.text-start Masa (Aditivos).
-            td.text-start 1 Gramo (g).
+            td.text-start 1 gramo (g).
             td.text-start 1,000 miligramos (mg).
             td.text-start Dosificación de conservantes y antioxidantes.
           tr
             td.text-start Masa (Trazas).
-            td.text-start 1 Miligramo (mg).
+            td.text-start 1 miligramo (mg).
             td.text-start 1,000 microgramos (g)
             td.text-start Análisis de contaminantes o vitaminas.
           tr
             td.text-start Volumen.
-            td.text-start 1 Litro (L).
+            td.text-start 1 litro (L).
             td.text-start 1,000 mililitros (ml) o 1 dm3
             td.text-start Preparación de soluciones de aditivos líquidos.
           tr
             td.text-start Volumen (Mínimo).
-            td.text-start 1 Mililitro (ml).
+            td.text-start 1 mililitro (ml).
             td.text-start 1 centímetro cúbico (cm3 o cc)
             td.text-start Dosificación de esencias y colorantes líquidos.
           tr

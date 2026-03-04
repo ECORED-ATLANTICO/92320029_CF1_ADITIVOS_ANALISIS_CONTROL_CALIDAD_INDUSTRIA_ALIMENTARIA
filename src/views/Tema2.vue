@@ -82,7 +82,7 @@
     .bg_img_5.mb-3
 
       #t_2_2.titulo-segundo.color-primario
-        .h2(data-aos="fade-right") 2.2 Clasificación Funcional
+        .h2(data-aos="fade-right") 2.2 Clasificación funcional
       .mb-0
       
       .row.justify-content-center.align-items-center.mb-5
