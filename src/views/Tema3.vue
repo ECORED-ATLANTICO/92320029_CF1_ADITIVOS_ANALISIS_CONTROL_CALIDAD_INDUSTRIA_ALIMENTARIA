@@ -460,7 +460,7 @@
             td.text-start Salsas y helados (Control de viscosidad).
           tr
             td E-415.
-            td Sucralosa.
+            td Goma Xantana.
             td.text-start Biosíntesis (Xanthomonas).
             td Baja.
             td.text-start Aderezos y productos sin gluten (Estabilidad al corte).
