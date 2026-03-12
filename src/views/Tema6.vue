@@ -94,13 +94,13 @@
           ul.list-unstyled.mb-1
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Porcentaje (%) a ppm:</B> Multiplique por 10,000 (Ej: 0.1% = 1,000 ppm).
+              span <B>De Porcentaje (%) a ppm:</B> multiplique por 10,000 (Ej: 0.1% = 1,000 ppm).
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Gramos a Miligramos:</B> Multiplique por 1,000 (Ej: 0.5 g = 500 mg).
+              span <B>De Gramos a Miligramos:</B> multiplique por 1,000 (Ej: 0.5 g = 500 mg).
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Miligramos a Kilogramos:</B> Divida por 1,000,000 para obtener la fracción de masa en kg.
+              span <B>De Miligramos a Kilogramos:</B> divida por 1,000,000 para obtener la fracción de masa en kg.
         .col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")

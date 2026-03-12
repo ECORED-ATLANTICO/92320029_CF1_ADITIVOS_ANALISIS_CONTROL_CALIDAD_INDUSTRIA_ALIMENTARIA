@@ -36,7 +36,7 @@
                 img(src="@/assets/curso/introduccion/img_4.png", class="img-fluid w-100")
             .col-12.col-md-12.col-lg-8.col-xl-8.mb-lg-0
               h2.text-white.mb-1 Pódcast
-              p.mb-5.text-white Escuche el siguiente podcast y conozca mitos y realidades sobre aditivos alimentarios: 
+              p.mb-5.text-white Escuche el siguiente pódcast y conozca mitos y realidades sobre aditivos alimentarios: 
               TarjetaAudio.color-acento-botones.mb-0.p-4(
                 texto="Mitos y realidades sobre aditivos alimentarios"
                 :audio="require('@/assets/curso/podcast/Mitos_realidades.wav')"

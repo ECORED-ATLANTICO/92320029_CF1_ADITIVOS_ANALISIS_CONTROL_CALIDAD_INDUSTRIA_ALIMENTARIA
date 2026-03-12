@@ -42,10 +42,7 @@
           .bloque-texto-b.color-secundario-5.p-4(data-aos='zoom-in-right')
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-3 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
-              br
-              br
-              h4.mb-0.justify-content-end (Flessa & Huebner, 2021; Kimble & Massoud, 2017).
+              p.mb-3 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad <h4>(Ibáñez, Irigoyen y Torre, 2003)</h4>.
               i.fas.fa-quote-right
           
 

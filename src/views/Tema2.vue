@@ -71,8 +71,7 @@
       .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0.h-100
           .col-12.col-lg-9.p-4
-            p.mb-0 Los aditivos provienen de tres fuentes principales que determinan factores como su toxicidad, valor comercial y disponibilidad.
-            p.mb-0 Además, existen aditivos de origen animal que se utilizan frecuentemente en la industria alimentaria. Por ejemplo, el ácido carmínico se obtiene mediante el procesamiento de una especie de insecto, mientras que la gelatina se extrae de pieles, tejidos, ligamentos, huesos y pezuñas de animales como vacunos, porcinos, equinos, aves de corral y pescados.
+            p.mb-0 Los aditivos provienen de tres fuentes principales que determinan factores como su toxicidad, valor comercial y disponibilidad. Además, existen aditivos de origen animal que se utilizan frecuentemente en la industria alimentaria. Por ejemplo, el ácido carmínico se obtiene mediante el procesamiento de una especie de insecto, mientras que la gelatina se extrae de pieles, tejidos, ligamentos, huesos y pezuñas de animales como vacunos, porcinos, equinos, aves de corral y pescados.
           .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
             figure.p-0.m-0.h-100
               img(src="@/assets/curso/temas/tema_2/img_8.png" class="img-fluid w-100 h-100 object-fit-cover").p-0

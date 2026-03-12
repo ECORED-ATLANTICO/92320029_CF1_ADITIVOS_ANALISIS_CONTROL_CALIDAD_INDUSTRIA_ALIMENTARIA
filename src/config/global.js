@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Aditivos: usos y aplicaciones en la industria alimentaria.',
+    Name: 'Aditivos: usos y aplicaciones en la industria alimentaria',
     Description:
       'Este componente formativo aborda de manera integrada las generalidades, usos, aplicaciones y control de los aditivos utilizados en la industria alimentaria, destacando su función tecnológica, clasificación, nomenclatura y normatividad vigente. El contenido permite comprender la relación entre el uso de aditivos, la calidad, la inocuidad y el análisis fisicoquímico de los alimentos, fortaleciendo criterios técnicos para su correcta aplicación.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

@@ -72,7 +72,7 @@
                   img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid w-100")
               .col-12.col-md-12.col-lg-8.col-xl-8.mb-lg-0
                 h2.text-white.mb-2 Pódcast
-                p.mb-5.text-white Escuche el siguiente podcast etiquetas bajo la lupa, cómo leer y entender los códigos E en tus alimentos:
+                p.mb-5.text-white Escuche el siguiente pódcast etiquetas bajo la lupa, cómo leer y entender los códigos E en tus alimentos:
                 TarjetaAudio.color-acento-botones.mb-0.p-4(
                   texto="Etiquetas bajo la lupa, cómo leer y entender los códigos E en tus alimentos"
                   :audio="require('@/assets/curso/podcast/Etiquetas_bajo_la_lupa.wav')"
