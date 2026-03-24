@@ -53,9 +53,9 @@
       .row.justify-content-center.align-items-center.mb-0.h-100
         .col-12.col-lg-7.p-4
          .row
-          .col-12.col-lg-2.mb-5.d-none.d-lg-block
+          .col-12.col-lg-2.mb-.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema_4/img_7.svg", class="img-fluid w-100")
-          .col-12.col-lg-12
+          .col-12.col-lg-10
             p.mb-0 Es imperativo que el experto en calidad reconozca que el SIN es un sistema dinámico y de carácter abierto. Debido a la constante innovación biotecnológica y la incorporación de nuevos aditivos, como los conservantes de origen natural o edulcorantes de nueva generación, la secuencia numérica original ha sufrido expansiones. En consecuencia, aunque la mayoría de los códigos mantienen su correlación funcional estricta, existen excepciones donde la asignación responde a la cronología de aprobación y no necesariamente a su grupo funcional primario. Esta flexibilidad técnica exige que los profesionales del área consulten periódicamente las actualizaciones de la Norma General para los Aditivos Alimentarios de la FAO y la OMS (2024) para garantizar el cumplimiento normativo en las formulaciones industriales. 
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
           figure.p-0.m-0.h-100
@@ -162,15 +162,15 @@
               .tarjeta--color-white.h-100
                 .tarjeta--04
                 h6.text-white.text-center.bg-color-primario-20.text-center.fw-bold.p-3 Evaluación de riesgos: 
-                .tarjeta--slider__content.text-center realizan estudios toxicológicos para determinar la Ingesta Diaria Admisible (IDA), que es la cantidad de un aditivo que una persona puede consumir diariamente durante toda su vida sin riesgo apreciable para su salud.
+                .tarjeta--slider__content.text-left realizan estudios toxicológicos para determinar la Ingesta Diaria Admisible (IDA), que es la cantidad de un aditivo que una persona puede consumir diariamente durante toda su vida sin riesgo apreciable para su salud.
               .tarjeta--color-white.h-100
                 .tarjeta--05
                 h6.text-white.text-center.bg-color-primario-20.text-center.fw-bold.p-3 Armonización normativa: 
-                .tarjeta--slider__content.text-center desarrollan estándares internacionales para evitar que las regulaciones nacionales se conviertan en barreras técnicas al comercio, asegurando que un producto sea seguro en cualquier mercado.
+                .tarjeta--slider__content.text-left desarrollan estándares internacionales para evitar que las regulaciones nacionales se conviertan en barreras técnicas al comercio, asegurando que un producto sea seguro en cualquier mercado.
               .tarjeta--color-white.h-100
                 .tarjeta--06
                 h6.text-white.text-center.bg-color-primario-20.text-center.fw-bold.p-3 Vigilancia y actualización: 
-                .tarjeta--slider__content.text-center monitorean constantemente los nuevos descubrimientos científicos. Si un aditivo previamente aprobado muestra efectos adversos (como ha ocurrido recientemente con ciertos colorantes azoicos o el dióxido de titanio), estos organismos tienen la potestad de restringir o prohibir su uso.
+                .tarjeta--slider__content.text-left monitorean constantemente los nuevos descubrimientos científicos. Si un aditivo previamente aprobado muestra efectos adversos (como ha ocurrido recientemente con ciertos colorantes azoicos o el dióxido de titanio), estos organismos tienen la potestad de restringir o prohibir su uso.
         .col-12.col-lg-4.order-2.order-lg-1.mb-0.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_4/img_23.png', class="img-fluid")
@@ -244,10 +244,6 @@
             td.text-start Aditivos (SIN).
             td.text-start Resolución 2606 / 2009.
             td.text-start Declaración por función técnica y código.
-          tr
-            td.text-start Sellos Frontales.
-            td.text-start Resolución 2492 / 2022.
-            td.text-start Sellos negros circulares de advertencia.
 
     Separador
 
@@ -308,22 +304,22 @@
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--07
-                .tarjeta--slider__content.text-center Verificar que el proveedor sea certificado y que garantice el grado de pureza de los insumos (food grade). 
+                .tarjeta--slider__content.text-left Verificar que el proveedor sea certificado y que garantice el grado de pureza de los insumos (food grade). 
               .tarjeta--color-white.h-100
                 .tarjeta--08
-                .tarjeta--slider__content.text-center Inspección de los envases garantizando que no presenten roturas, ni signos de humedad ni manipulación previa que comprometan su esterilidad.
+                .tarjeta--slider__content.text-left Inspección de los envases garantizando que no presenten roturas, ni signos de humedad ni manipulación previa que comprometan su esterilidad.
               .tarjeta--color-white.h-100
                 .tarjeta--09
-                .tarjeta--slider__content.text-center Almacenamiento diferenciado en un lugar fresco, seguro y separado estrictamente de otros productos o sustancias tóxicas para evitar la contaminación cruzada.
+                .tarjeta--slider__content.text-left Almacenamiento diferenciado en un lugar fresco, seguro y separado estrictamente de otros productos o sustancias tóxicas para evitar la contaminación cruzada.
               .tarjeta--color-white.h-100
                 .tarjeta--10
-                .tarjeta--slider__content.text-center Control de la humedad de los mismos especialmente de las sales y espesantes que son altamente absorbentes y por ende facilitan el crecimiento de hongos. 
+                .tarjeta--slider__content.text-left Control de la humedad de los mismos especialmente de las sales y espesantes que son altamente absorbentes y por ende facilitan el crecimiento de hongos. 
               .tarjeta--color-white.h-100
                 .tarjeta--11
-                .tarjeta--slider__content.text-center Dosificación controlada al pesar y preparar soluciones, realizando estos procesos con utensilios y personal esterilizado, para evitar ingreso de microorganismos al lote de producción. 
+                .tarjeta--slider__content.text-left Dosificación controlada al pesar y preparar soluciones, realizando estos procesos con utensilios y personal esterilizado, para evitar ingreso de microorganismos al lote de producción. 
               .tarjeta--color-white.h-100
                 .tarjeta--12
-                .tarjeta--slider__content.text-center Prevención sobredosificación al calcular y pesar de manera estricta la introducción de aditivos, ya que un error puede exceder la Ingesta Diaria Admisible (IDA) convirtiéndose en un riesgo toxicológico para el consumidor. 
+                .tarjeta--slider__content.text-left Prevención sobredosificación al calcular y pesar de manera estricta la introducción de aditivos, ya que un error puede exceder la Ingesta Diaria Admisible (IDA) convirtiéndose en un riesgo toxicológico para el consumidor. 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
 </template>

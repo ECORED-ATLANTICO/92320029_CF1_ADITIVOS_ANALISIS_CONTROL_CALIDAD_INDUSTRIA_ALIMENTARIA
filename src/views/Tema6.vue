@@ -53,22 +53,22 @@
           tr
             td.text-start Masa (Sólidos).
             td.text-start 1 kilogramo (kg).
-            td.text-start 1,000 gramos (g).
+            td.text-start 1.000 gramos (g).
             td.text-start Pesaje de materias primas a granel.
           tr
             td.text-start Masa (Aditivos).
             td.text-start 1 gramo (g).
-            td.text-start 1,000 miligramos (mg).
+            td.text-start 1.000 miligramos (mg).
             td.text-start Dosificación de conservantes y antioxidantes.
           tr
             td.text-start Masa (Trazas).
             td.text-start 1 miligramo (mg).
-            td.text-start 1,000 microgramos (μg).
+            td.text-start 1.000 microgramos (μg).
             td.text-start Análisis de contaminantes o vitaminas.
           tr
             td.text-start Volumen.
             td.text-start 1 litro (L).
-            td.text-start 1,000 mililitros (ml) o 1 dm3.
+            td.text-start 1.000 mililitros (ml) o 1 dm3.
             td.text-start Preparación de soluciones de aditivos líquidos.
           tr
             td.text-start Volumen (Mínimo).
@@ -94,13 +94,13 @@
           ul.list-unstyled.mb-1
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Porcentaje (%) a ppm:</B> multiplique por 10,000 (Ej: 0.1% = 1,000 ppm).
+              span <B>De Porcentaje (%) a ppm:</B> multiplique por 10,000 (Ej: 0.1% = 1.000 ppm).
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Gramos a Miligramos:</B> multiplique por 1,000 (Ej: 0.5 g = 500 mg).
+              span <B>De Gramos a Miligramos:</B> multiplique por 1.000 (Ej: 0.5 g = 500 mg).
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-arrow-right.me-2.flex-shrink-0(style="color:#B8D0F3; font-size: 15px; line-height: 1.5;").mb-0
-              span <B>De Miligramos a Kilogramos:</B> divida por 1,000,000 para obtener la fracción de masa en kg.
+              span <B>De Miligramos a Kilogramos:</B> divida por 1.000,000 para obtener la fracción de masa en kg.
         .col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")
@@ -108,7 +108,7 @@
       .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0.h-100
           .col-12.col-lg-9.p-4
-            p.mb-0 <B>Nota:</B> en el análisis físico-químico, un error de un decimal en la conversión (por ejemplo, confundir microgramos con miligramos) puede significar una sobredosificación de 1,000 veces el límite permitido, resultando en un producto no apto para el consumo humano.
+            p.mb-0 <B>Nota:</B> en el análisis físico-químico, un error de un decimal en la conversión (por ejemplo, confundir microgramos con miligramos) puede significar una sobredosificación de 1.000 veces el límite permitido, resultando en un producto no apto para el consumo humano.
           .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
             figure.p-0.m-0.h-100
               img(src='@/assets/curso/temas/tema_4/img_4.png' class="img-fluid w-100 h-100 object-fit-cover").p-0

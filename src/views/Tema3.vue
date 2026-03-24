@@ -14,9 +14,9 @@
             img(src="@/assets/curso/temas/tema_3/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-4
          .row
-          .col-12.col-lg-2.mb-5.d-none.d-lg-block
+          .col-12.col-lg-2.mb-0.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema_3/img_2.png", class="img-fluid w-100")
-          .col-12.col-lg-12
+          .col-12.col-lg-10
             p.mb-0 Los aditivos son fundamentales para mejorar las características sensoriales, prolongar la vida útil y reducir costos en la industria alimentaria. Debido a su impacto, es imperativo mantener rigurosos controles de calidad durante su preparación, envasado y almacenamiento.
 
     Separador
@@ -36,13 +36,13 @@
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--01
-                .tarjeta--slider__content.text-center Los alimentos poseen un color característico que, idealmente, debería preservarse durante su procesamiento. Sin embargo, al no ser esto siempre posible, resulta necesario el uso de aditivos para garantizar un color constante, atractivo y sin alteraciones a lo largo de la cadena de producción.
+                .tarjeta--slider__content.text-left Los alimentos poseen un color característico que, idealmente, debería preservarse durante su procesamiento. Sin embargo, al no ser esto siempre posible, resulta necesario el uso de aditivos para garantizar un color constante, atractivo y sin alteraciones a lo largo de la cadena de producción.
               .tarjeta--color-white.h-100
                 .tarjeta--02
-                .tarjeta--slider__content.text-center Cabe destacar que los colorantes son el grupo de aditivos que genera mayor controversia, ya que los consumidores suelen percibir que no aportan a la calidad nutricional, conservación o higiene. Por ello, su aceptación está estrechamente ligada a la percepción de niveles de riesgo mínimos.
+                .tarjeta--slider__content.text-left Cabe destacar que los colorantes son el grupo de aditivos que genera mayor controversia, ya que los consumidores suelen percibir que no aportan a la calidad nutricional, conservación o higiene. Por ello, su aceptación está estrechamente ligada a la percepción de niveles de riesgo mínimos.
               .tarjeta--color-white.h-100
                 .tarjeta--03
-                .tarjeta--slider__content.text-center Estos aditivos adquieren especial relevancia en los productos dirigidos al público infantil, un sector altamente influenciable por el aspecto visual, ya que el color es el primer atributo que perciben los sentidos, este influye subjetivamente en la percepción del sabor y el olor, condicionando el juicio sobre la calidad del alimento (Eroski Consumer, 2008).
+                .tarjeta--slider__content.text-left Estos aditivos adquieren especial relevancia en los productos dirigidos al público infantil, un sector altamente influenciable por el aspecto visual, ya que el color es el primer atributo que perciben los sentidos, este influye subjetivamente en la percepción del sabor y el olor, condicionando el juicio sobre la calidad del alimento (Eroski Consumer, 2008).
 
       p.mb-5 A continuación, se presenta una tabla con los colorantes más utilizados en la industria alimentaria y sus principales características:
 
@@ -62,88 +62,88 @@
             th.col-auto.col-lg-5 Aplicaciones y perfil técnico
         tbody
           tr
-            td E-100.
-            td Curcumina.
+            td.text-start E-100.
+            td.text-start Curcumina.
             td.text-start Polifenol extraído de Curcuma longa.
-            td Nulo/Baja.
+            td.text-start Nulo/Baja.
             td.text-start Pigmento liposoluble de tono amarillo-oro. En 2025 se prefiere su uso en nanoemulsiones para mejorar la estabilidad en bebidas y lácteos funcionales.
           tr
-            td E-101.
-            td Riboflavina.
+            td.text-start E-101.
+            td.text-start Riboflavina.
             td.text-start Biosíntesis bacteriana (Bacillus subtilis).
-            td Nulo (Vitamina).
+            td.text-start Nulo (Vitamina).
             td.text-start Vitamina B2 de tono amarillo intenso. Se utiliza como marcador nutricional en cereales y harinas, además de colorante en postres instantáneos.
           tr
-            td E-102.
-            td Tartrazina.
+            td.text-start E-102.
+            td.text-start Tartrazina.
             td.text-start Síntesis orgánica (Azoico).
-            td Crítico.
+            td.text-start Crítico.
             td.text-start Altamente estable al pH y calor. Bajo vigilancia estricta por su relación con el TDAH. Su uso está disminuyendo en favor de mezclas de cúrcuma y luteína.
           tr
-            td E-104.
-            td Amarillo de Quinoleína.
+            td.text-start E-104.
+            td.text-start Amarillo de Quinoleína.
             td.text-start Derivado de la síntesis de alquitrán.
-            td Crítico.
+            td.text-start Crítico.
             td.text-start Pigmento amarillo-verdoso. Prohibido en países como EE. UU. y Noruega por sospechas de mutagenicidad; en la UE, su dosis diaria admisible (IDA) ha sido reducida.
           tr
-            td E-110.
-            td Amarillo Ocaso FCF.
+            td.text-start E-110.
+            td.text-start Amarillo Ocaso FCF.
             td.text-start Síntesis química (Azoico).
-            td Alto.
+            td.text-start Alto.
             td.text-start Proporciona tonos naranja vibrantes. Se asocia con reacciones alérgicas en consumidores sensibles a la aspirina. Muy usado en snacks extruidos.
           tr
-            td E-120.
-            td Ácido carmínico.
+            td.text-start E-120.
+            td.text-start Ácido carmínico.
             td.text-start Extracto de Dactylopius coccus.
-            td Moderado.
+            td.text-start Moderado.
             td.text-start Transición: Aunque es natural, su uso decrece en 2025 debido a la demanda de productos veganos. Se está sustituyendo por extracto de zanahoria negra y remolacha.
           tr
-            td E-122.
-            td Azorrubina.
+            td.text-start E-122.
+            td.text-start Azorrubina.
             td.text-start Derivado naftalénico (Sintético).
-            td Alto.
+            td.text-start Alto.
             td.text-start Color rojo-frambuesa. Obligatoriedad de etiquetado precautorio en la UE sobre efectos en la atención infantil. Común en confitería de bajo costo.
           tr
-            td E-124.
-            td Ponceau 4R.
+            td.text-start E-124.
+            td.text-start Ponceau 4R.
             td.text-start Síntesis orgánica (Azoico).
-            td Alto.
+            td.text-start Alto.
             td.text-start Rojo intenso. Considerado carcinógeno potencial en dosis elevadas por algunos organismos. Reemplazado progresivamente por el E-129.
           tr
-            td E-129.
-            td Rojo Allura AC.
+            td.text-start E-129.
+            td.text-start Rojo Allura AC.
             td.text-start Derivado de hidrocarburos.
-            td Moderado/Alto.
+            td.text-start Moderado/Alto.
             td.text-start Es el colorante rojo más resistente a la luz y al oxígeno. Dominante en la industria de bebidas y cereales, pese a la presión por alternativas naturales.
           tr
-            td E-131.
-            td Azul Patente V.
+            td.text-start E-131.
+            td.text-start Azul Patente V.
             td.text-start Trifenilmetano (Sintético).
-            td Moderado.
+            td.text-start Moderado.
             td.text-start Tono azul violáceo. Posee una baja absorción intestinal, pero su uso está restringido en varios mercados internacionales por riesgo de anafilaxia.
           tr
-            td E-140.
-            td Clorofilas.
+            td.text-start E-140.
+            td.text-start Clorofilas.
             td.text-start Extracción vegetal (Alfalfa/Espinaca).
-            td Nulo.
+            td.text-start Nulo.
             td.text-start Inestables al calor y la luz a menos que se presenten como Clorofilinas de Cobre (E-141). Esencial en la tendencia <em>Clean Label</em>.
           tr
-            td E-150 (a-d).
-            td Caramelo.
+            td.text-start E-150 (a-d).
+            td.text-start Caramelo.
             td.text-start Termólisis de carbohidratos.
-            td Medio.
+            td.text-start Medio.
             td.text-start Las clases III y IV (E-150c/d) contienen 4-MEI, compuesto bajo vigilancia por la OMS. Indispensable en refrescos de cola y panificación.
           tr
-            td E-160a.
-            td Betacaroteno.
+            td.text-start E-160a.
+            td.text-start Betacaroteno.
             td.text-start Extracto de algas (Dunaliella) o síntesis.
-            td Nulo.
+            td.text-start Nulo.
             td.text-start Precursor de Vitamina A. Los desarrollos de 2024 permiten carotenos microencapsulados que no aportan sabor a zanahoria en los jugos.
           tr
-            td E-170.
-            td Carbonato de Calcio.
+            td.text-start E-170.
+            td.text-start Carbonato de Calcio.
             td.text-start Mineral (Roca caliza).
-            td Baja.
+            td.text-start Baja.
             td.text-start Agente de carga y color blanco. Ha ganado relevancia tras la prohibición del Dióxido de Titanio (E-171) en la UE en 2022.
 
     Separador
@@ -195,34 +195,34 @@
             th.col-auto.col-lg-5 Características y aplicaciones técnicas
         tbody
           tr
-            td E-200 - E-203.
-            td Sorbatos (Ácido sórbico).
+            td.text-start E-200 - E-203.
+            td.text-start Sorbatos (Ácido sórbico).
             td.text-start Síntesis química o natural (bayas).
-            td Baja.
+            td.text-start Baja.
             td.text-start Agentes antifúngicos por excelencia. Inhiben levaduras y mohos en productos de panificación, derivados lácteos y bebidas carbonatadas.
           tr
-            td E-210 - E-213.
-            td Benzoatos (Ácido benzoico).
+            td.text-start E-210 - E-213.
+            td.text-start Benzoatos (Ácido benzoico).
             td.text-start Síntesis (derivado del benceno).
-            td Moderada.
+            td.text-start Moderada.
             td.text-start Eficaces en medios ácidos (pH < 4.5). Muy utilizados en refrescos y salsas. Se vigila su combinación con Vitamina C por riesgo de formación de benceno.
           tr
-            td E-220 - E-228.
-            td Sulfitos y derivados.
+            td.text-start E-220 - E-228.
+            td.text-start Sulfitos y derivados.
             td.text-start Combustión de azufre o síntesis.
-            td Moderada / Alérgeno.
+            td.text-start Moderada / Alérgeno.
             td.text-start Acción bacteriostática y antioxidante. Críticos en la industria vinícola y de frutos secos. Requieren declaración obligatoria por riesgo de hipersensibilidad.
           tr
-            td E-234.
-            td Nisina.
+            td.text-start E-234.
+            td.text-start Nisina.
             td.text-start Biosíntesis (Lactococcus lactis).
-            td Nula (Natural).
+            td.text-start Nula (Natural).
             td.text-start Bacteriocina de origen natural. Altamente efectiva contra bacterias Gram-positivas y esporas. Pilar de la tendencia <em>Clean Label</em> en quesos y conservas cárnicas. 
           tr
-            td E-249 - E-252.
-            td Nitritos y nitratos.
+            td.text-start E-249 - E-252.
+            td.text-start Nitritos y nitratos.
             td.text-start Síntesis mineral.
-            td Alta.
+            td.text-start Alta.
             td.text-start Esenciales para prevenir Clostridium botulinum en embutidos. Bajo estricto control debido a la potencial formación de nitrosaminas (compuestos precancerígenos).
     
     .tarjeta.color-secundario-5.p-3.rounded-0.mb-0(data-aos="zoom-in-right")
@@ -364,34 +364,34 @@
             th.col-auto.col-lg-5 Uso Principal
         tbody
           tr
-            td E-950.
-            td Acesulfamo K.
+            td.text-start E-950.
+            td.text-start Acesulfamo K.
             td.text-start Sintético.
-            td Media.
+            td.text-start Media.
             td.text-start Bebidas sin azúcar y postres lácteos.
           tr
-            td E-951.
-            td Aspartamo.
+            td.text-start E-951.
+            td.text-start Aspartamo.
             td.text-start Sintético.
-            td Alta (Escrutinio).
+            td.text-start Alta (Escrutinio).
             td.text-start Refrescos de cola (Bajo vigilancia de la OMS).
           tr
-            td E-955.
-            td Sucralosa.
+            td.text-start E-955.
+            td.text-start Sucralosa.
             td.text-start Sintético.
-            td Baja.
+            td.text-start Baja.
             td.text-start Repostería y productos horneados (Estabilidad térmica).
           tr
-            td E-960.
-            td Glucósidos de Esteviol.
+            td.text-start E-960.
+            td.text-start Glucósidos de Esteviol.
             td.text-start Natural (Estevia).
-            td Nula.
+            td.text-start Nula.
             td.text-start Lácteos y bebidas funcionales.
           tr
-            td E-967.
-            td Xilitol.
+            td.text-start E-967.
+            td.text-start Xilitol.
             td.text-start Natural (Corteza).
-            td Nula.
+            td.text-start Nula.
             td.text-start Chicles y productos de higiene bucal.
     
     .tarjeta.color-secundario-5.p-3.rounded-0.mb-0(data-aos="zoom-in-right")
@@ -447,34 +447,34 @@
             th.col-auto.col-lg-5 Uso Principal
         tbody
           tr
-            td E-407.
-            td Carragenina.
+            td.text-start E-407.
+            td.text-start Carragenina.
             td.text-start Natural (Algas).
-            td Media.
+            td.text-start Media.
             td.text-start Lácteos y carnes procesadas (Capacidad de gelificación).
           tr
-            td E-412.
-            td Goma Guar.
+            td.text-start E-412.
+            td.text-start Goma Guar.
             td.text-start Natural (Legumbre).
-            td Baja.
+            td.text-start Baja.
             td.text-start Salsas y helados (Control de viscosidad).
           tr
-            td E-415.
-            td Goma Xantana.
+            td.text-start E-415.
+            td.text-start Goma Xantana.
             td.text-start Biosíntesis (Xanthomonas).
-            td Baja.
+            td.text-start Baja.
             td.text-start Aderezos y productos sin gluten (Estabilidad al corte).
           tr
-            td E-440.
-            td Pectinas.
+            td.text-start E-440.
+            td.text-start Pectinas.
             td.text-start Natural (Frutas).
-            td Nula.
+            td.text-start Nula.
             td.text-start Mermeladas y rellenos de fruta.
           tr
-            td E-466.
-            td CMC (Celulosa).
+            td.text-start E-466.
+            td.text-start CMC (Celulosa).
             td.text-start Semisintético.
-            td Baja.
+            td.text-start Baja.
             td.text-start Bebidas en polvo y productos de panificación.
 
     Separador
@@ -528,34 +528,34 @@
             th.col-auto.col-lg-5 Uso Principal
         tbody
           tr
-            td E-330.
-            td Ácido Cítrico.
+            td.text-start E-330.
+            td.text-start Ácido Cítrico.
             td.text-start Fermentación fúngica.
-            td Nula.
+            td.text-start Nula.
             td.text-start Bebidas, dulces y conservas vegetales.
           tr
-            td E-334.
-            td Ácido Tartárico.
+            td.text-start E-334.
+            td.text-start Ácido Tartárico.
             td.text-start Natural (Uva).
-            td Baja.
+            td.text-start Baja.
             td.text-start Panificación y efervescentes.
           tr
-            td E-338.
-            td Ácido Fosfórico.
+            td.text-start E-338.
+            td.text-start Ácido Fosfórico.
             td.text-start Sintético.
-            td Media.
+            td.text-start Media.
             td.text-start Bebidas de cola y clarificación de azúcares.
           tr
-            td E-270.
-            td Ácido Láctico.
+            td.text-start E-270.
+            td.text-start Ácido Láctico.
             td.text-start Fermentación láctica.
-            td Nula.
+            td.text-start Nula.
             td.text-start Encurtidos, lácteos y productos de panadería.
           tr
-            td E-296.
-            td Ácido Málico.
+            td.text-start E-296.
+            td.text-start Ácido Málico.
             td.text-start Natural/Sintético.
-            td Nula.
+            td.text-start Nula.
             td.text-start Caramelos con sabor a frutas y néctares.
 
     Separador
@@ -596,34 +596,34 @@
               th.col-auto.col-lg-5 Uso Principal
           tbody
             tr
-              td E-621.
-              td Glutamato Monosódico.
+              td.text-start E-621.
+              td.text-start Glutamato Monosódico.
               td.text-start Fermentación.
-              td Media.
+              td.text-start Media.
               td.text-start Comida asiática, snacks y sopas instantáneas.
             tr
-              td E-627.
-              td Guanilato Disódico.
+              td.text-start E-627.
+              td.text-start Guanilato Disódico.
               td.text-start Síntesis/Natural.
-              td Baja.
+              td.text-start Baja.
               td.text-start Caldos concentrados y salsas preparadas.
             tr
-              td E-631.
-              td Inosinato Disódico.
+              td.text-start E-631.
+              td.text-start Inosinato Disódico.
               td.text-start Síntesis/Animal.
-              td Baja.
+              td.text-start Baja.
               td.text-start Potenciador sinérgico junto con el E-621.
             tr
-              td E-640.
-              td Glicina.
+              td.text-start E-640.
+              td.text-start Glicina.
               td.text-start Sintético.
-              td Baja.
+              td.text-start Baja.
               td.text-start Edulcorante secundario y potenciador de aroma.
             tr
-              td Levadura.
-              td Extracto de Levadura.
+              td.text-start Levadura.
+              td.text-start Extracto de Levadura.
               td.text-start Natural.
-              td Nula.
+              td.text-start Nula.
               td.text-start Sustituto limpio del Glutamato.
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-right")

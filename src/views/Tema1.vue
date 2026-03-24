@@ -14,9 +14,9 @@
             img(src="@/assets/curso/temas/tema_1/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-4
          .row
-          .col-12.col-lg-2.mb-5.d-none.d-lg-block
+          .col-12.col-lg-2.mb-0.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid w-100")
-          .col-12.col-lg-12
+          .col-12.col-lg-10
             p.mb-0 Los aditivos alimentarios son sustancias que se adicionan intencionalmente a los alimentos con fines tecnológicos durante su producción, para mejorar su conservación, aspecto o sabor. Su uso es tan antiguo como la civilización, aunque su regulación y diversidad han evolucionado drásticamente con el propósito de mantener o mejorar las características físicas, químicas y sensoriales del alimento, sin comprometer la salud del consumidor (FAO & OMS, 2015).
 
     Separador
@@ -121,7 +121,7 @@
             p.mb-0 Pese a las críticas sobre su impacto en la salud y la artificialidad de la dieta, su uso está justificado al ser fundamentales para la conservación y el manejo de las propiedades organolépticas de los alimentos.
       
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
-        .col-12.col-lg-10.mb-3
+        .col-12.col-lg-12.mb-3
           p.mb-5 Además de estas ventajas, los aditivos cumplen funciones específicas tales como:
 
     .bg_img_3.mb-0
